@@ -11,7 +11,7 @@ title                    : "Wei Fan"
 title_separator          : "-"
 name                     : &name "Wei Fan"
 description              : &description "Ph.D. student @ University of Central Florida"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://weifan.site # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "weifantt.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Wei Fan"
   avatar           : "profile.png"
-  bio              : "Ph.D. Student @ University of Central Florida | Research Intern at Baidu Research"
+  bio              : "Ph.D. Student, UCF | Research Intern, Baidu Research"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
