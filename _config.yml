@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Wei Fan"
   avatar           : "profile.png"
-  bio              : "Ph.D. Student, UCF | Research Intern, Baidu Research"
+  bio              : "Ph.D. Student, UCF"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : https://scholar.google.com/citations?user=cQ8zLJ4AAAAJ
   email            : "weifan@knights.ucf.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
