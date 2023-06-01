@@ -21,7 +21,7 @@ Luckily, I have onced worked as a research intern in machine learning area, Micr
 Education
 ======
 * B.E. in Beijing University of Posts and Telecommunications (BUPT), 2020
-* Ph.D in University of Central Florida, 2023 (expected)
+* Ph.D. in University of Central Florida, 2023 (expected)
 
 Work experience
 ======
