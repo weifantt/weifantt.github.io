@@ -86,7 +86,7 @@ author:
   location         : "Macau SAR"
   employer         :
   pubmed           : 
-  googlescholar    : https://scholar.google.com/citations?user=cQ8zLJ4AAAAJ
+  googlescholar    : "https://scholar.google.com/citations?user=cQ8zLJ4AAAAJ"
   email            : "weifan@knights.ucf.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
