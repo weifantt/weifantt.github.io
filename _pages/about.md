@@ -25,6 +25,8 @@ Education
 
 Work experience
 ======
+* Visiting Research Assistant, University of Macau
+  * 09/2022 - 12/2023
 
 * Research Intern, Baidu Research
   * 11/2021 - 07/2022
