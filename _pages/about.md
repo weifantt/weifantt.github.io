@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Wei Fan (范玮) `s Homepage!
+Welcome to Wei Fan`s Homepage!
 
-I am currently a final-year Ph.D. candidate in Computer Science of University of Central Florida supervised by [Dr. Yanjie Fu](https://www.yanjiefu.com/). I recieved my B.E. degree of Computer Science and Technology from Beijing University of Posts and Telecommunications (BUPT) in 2020. My research interests mainly include data mining and machine learning.
+I am currently working as a postdoc researcher in medical science division of University of Oxford with [Prof. Kazem Rahimi](https://scholar.google.co.uk/citations?hl=en&user=5u7TxAMAAAAJ) and [Dr. Shishir Rao](https://www.wrh.ox.ac.uk/team/shishir-rao). I recieved my Ph.D. degree in Computer Science from University of Central Florida in 2023. I recieved my B.E. degree of Computer Science and Technology from Beijing University of Posts and Telecommunications (BUPT) in 2020. My research interests mainly include data mining, machine learning, time series analysis and epidemiology.
 
-Luckily, I have onced worked as a research intern in machine learning area, Microsoft Research Asia, where I met with my mentor [Dr. Shun Zheng](https://www.microsoft.com/en-us/research/people/shunzhen/) and [Dr. Jiang Bian](https://sites.google.com/view/jiangbian) who gave me valuable guidance. I was a research intern at Baidu Research, supervised by [Dr. Hui Xiong](http://datamining.rutgers.edu/). I also worked a research intern at Baidu Research supervised by [Dr. Hao Liu](https://raymondhliu.github.io/). Before that, I have been an algorithm intern at speech team of [Bytedance AI Lab](https://www.bytedance.com/en/). Besides, I have once worked as a undergraduate research assisitant with [Dr. Tianyu Liu](https://tyliupku.github.io/) and [Dr. Wenfei Wu](https://wenfei-wu.github.io/).
+Luckily, I have onced worked as a research intern in Microsoft Research Asia with [Dr. Shun Zheng](https://www.microsoft.com/en-us/research/people/shunzhen/) and [Dr. Jiang Bian](https://sites.google.com/view/jiangbian). I was a research intern at Baidu Research, supervised by [Dr. Hui Xiong](http://datamining.rutgers.edu/). I also worked a research intern at Baidu Research supervised by [Dr. Hao Liu](https://raymondhliu.github.io/). Before that, I have been an algorithm intern at speech team of Bytedance AI Lab. Besides, I have once worked as a undergraduate research assisitant with [Dr. Tianyu Liu](https://tyliupku.github.io/) and [Dr. Wenfei Wu](https://wenfei-wu.github.io/).
 
 
 
@@ -20,13 +20,16 @@ Luckily, I have onced worked as a research intern in machine learning area, Micr
 
 Education
 ======
+* Ph.D. in University of Central Florida, 2023 
 * B.E. in Beijing University of Posts and Telecommunications (BUPT), 2020
-* Ph.D. in University of Central Florida, 2023 (expected)
 
 Work experience
 ======
-* Visiting Research Assistant, University of Macau
-  * 09/2022 - 12/2023
+* Postdoc Researcher, University of Oxford
+  * 02/2024 - Present
+
+* Visiting Scholar, University of Macau
+  * 09/2022 - 09/2023
 
 * Research Intern, Baidu Research
   * 11/2021 - 07/2022
@@ -45,5 +48,5 @@ Work experience
 Services
 ======
 * PC Member/Reviewer
-  * Conference: AACL-IJCNLP 2022, LOG 2022, AAAI 2023, ICLR 2023, IJCAI 2023, KDD 2023, IJCNLP-AACL 2023,  CIKM 2023, NeurIPS 2023
-  * Journal: TKDE, Nature Scientific Reports
+  * Conference: IJCNLP 2022-2023; LOG 2022-2023; AAAI 2023-2024; ICLR 2023-2024; IJCAI 2023-2024; KDD 2023-2024; NeurIPS 2023-2024; CIKM 2023; BigData 2024; SDM 2024; WWW 2024;
+  * Journal: TKDE, TKDD, TIST, Nature Scientific Reports
