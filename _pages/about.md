@@ -45,7 +45,7 @@ I have published 20+ papers in prestigious journals and conferences, including d
 
 * **Deep Time Series Modeling**
   * The Data Learning Perspective: [ICLR 22](https://arxiv.org/pdf/2203.07681), [NeurIPS 23](https://proceedings.neurips.cc/paper_files/paper/2023/file/f1d16af76939f476b5f040fd1398c0a3-Paper-Conference.pdf), [NeurIPS 23](https://proceedings.neurips.cc/paper_files/paper/2023/file/dc1e32dd3eb381dbc71482f6a96cbf86-Paper-Conference.pdf), [NeurIPS 24](https://arxiv.org/pdf/2411.01623)
-  * The Data Manipulating Perspective: [AAAI 23](https://arxiv.org/abs/2302.14829), [IJCAI 24](https://arxiv.org/pdf/2407.00502), [Preprint](https://arxiv.org/pdf/2401.16777).
+  * The Data Manipulating Perspective: [AAAI 23](https://arxiv.org/abs/2302.14829), [IJCAI 24](https://arxiv.org/pdf/2407.00502), [IJCAI 24](https://www.ijcai.org/proceedings/2024/0275.pdf), [Preprint](https://arxiv.org/pdf/2401.16777).
 
 
 * **Automated Feature Engineering**
@@ -56,7 +56,7 @@ I have published 20+ papers in prestigious journals and conferences, including d
   * Tabular Representation Learning: [ICLR 24](https://arxiv.org/pdf/2407.05364)
   * Graph Representation Learning: [ICDM 21](https://drive.google.com/file/d/1PmEooa7_yvpahb7aEsv1xIC3G4ZgwUHp/view), [EMNLP 22](https://arxiv.org/pdf/2204.13221)
 
-* **Spatial-temporal Data Mining and Interdisplinary Applications**
+* **Spatial-temporal Data Mining and Interdisciplinary Applications**
   * Urban Computing and Smart City Applications: [ICDM 23](https://ieeexplore.ieee.org/abstract/document/10415754/), [SDM 24](https://epubs.siam.org/doi/pdf/10.1137/1.9781611978032.42), [IJCAI 24](https://www.ijcai.org/proceedings/2024/0228.pdf)
   * Energy Forecasting: [TKDD 24](https://arxiv.org/pdf/2401.00644)
   * Medical Signal Classification: Preprint
