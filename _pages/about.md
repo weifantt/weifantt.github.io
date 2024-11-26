@@ -10,7 +10,7 @@ redirect_from:
 
 Wei Fan is currently working as a Postdoctoral Researcher in the Medical Sciences Division at the [University of Oxford](https://www.medsci.ox.ac.uk/), UK. His research focuses on data-centric AI, time series modeling, and spatial-temporal data mining. He is also dedicated to applying these methods to solve real-world data science applications, such as healthcare, transportation, and energy. Wei earned his Ph.D. degree in Computer Science from the [University of Central Florida](https://www.cs.ucf.edu/). He has interned at industry organizations such as [Microsoft Research](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/research/), [Baidu Research](https://research.baidu.com/), and [Bytedance AI Lab](https://www.bytedance.com/en/). 
 
-Wei has published over 20 papers in leading machine learning and data mining journals (e.g., TKDE, TKDD) and conferences (e.g., ICLR, NeurIPS, AAAI, IJCAI). Two of his papers were selected as spotlight papers of ICLR. He has also co-organized Workshops at conferences such as [ICDM](https://data-centric-ai-dev.github.io/ICDM2024/) and [CIKM](https://data-centric-ai-dev.github.io/CIKM2024/). Wei also serves as a PC member/reviewer for conferences and journals such as ICLR, NeurIPS, KDD, WWW, IJCAI, AAAI, MM, SDM, LOG, AISTATS, PRICAI, IEEE Bigdata, IEEE TKDE, IEEE TCSS, IEEE IoT, IEEE TBD, ACM TKDD, ACM TOIS, ACM TOMM, Scientific Reports.
+Wei has published over 20 papers in leading machine learning and data mining journals (e.g., TKDE, TKDD) and conferences (e.g., ICLR, NeurIPS, KDD, AAAI, IJCAI). Two of his papers were selected as spotlight papers of ICLR. He has also co-organized Workshops at conferences such as [ICDM](https://data-centric-ai-dev.github.io/ICDM2024/) and [CIKM](https://data-centric-ai-dev.github.io/CIKM2024/). Wei also serves as a PC member/reviewer for conferences and journals such as ICLR, NeurIPS, KDD, WWW, IJCAI, AAAI, MM, SDM, LOG, AISTATS, PRICAI, IEEE Bigdata, IEEE TKDE, IEEE TCSS, IEEE IoT, IEEE TBD, ACM TKDD, ACM TOIS, ACM TOMM, Scientific Reports.
 
 
 <!-- Wei Fan is currently working as a postdoctoral researcher in medical sciences division of University of Oxford with [Prof. Kazem Rahimi](https://scholar.google.co.uk/citations?hl=en&user=5u7TxAMAAAAJ) and [Dr. Shishir Rao](https://www.wrh.ox.ac.uk/team/shishir-rao). He recieved my Ph.D. degree in Computer Science from University of Central Florida in 2023. I recieved my B.E. degree of Computer Science and Technology from Beijing University of Posts and Telecommunications (BUPT) in 2020. My research interests mainly include data mining, machine learning, time series analysis and epidemiology.
@@ -29,7 +29,7 @@ Education
 
 Professional Experience
 ======
-* **Postdoctor Researcher**, Medical Sciences Division, University of Oxford, 2024
+* **Postdoctoral Researcher**, Medical Sciences Division, University of Oxford, 2024
 * **Visiting Scholar**, University of Macau, 2023
 * **Research Intern**, Vision Lab, Baidu Research, 2022
 * **Research Intern**, Machine Learning Group, Microsoft Research Asia, 2021
@@ -45,7 +45,7 @@ I have published 20+ papers in prestigious journals and conferences, including d
 
 * **Deep Time Series Modeling**
   * The Data Learning Perspective: [ICLR 22](https://arxiv.org/pdf/2203.07681), [NeurIPS 23](https://proceedings.neurips.cc/paper_files/paper/2023/file/f1d16af76939f476b5f040fd1398c0a3-Paper-Conference.pdf), [NeurIPS 23](https://proceedings.neurips.cc/paper_files/paper/2023/file/dc1e32dd3eb381dbc71482f6a96cbf86-Paper-Conference.pdf), [NeurIPS 24](https://arxiv.org/pdf/2411.01623)
-  * The Data Manipulating Perspective: [AAAI 23](https://arxiv.org/abs/2302.14829), [IJCAI 24](https://arxiv.org/pdf/2407.00502), [IJCAI 24](https://www.ijcai.org/proceedings/2024/0275.pdf), [Preprint](https://arxiv.org/pdf/2401.16777).
+  * The Data Manipulating Perspective: [AAAI 23](https://arxiv.org/abs/2302.14829), [IJCAI 24](https://arxiv.org/pdf/2407.00502), [IJCAI 24](https://www.ijcai.org/proceedings/2024/0275.pdf), [KDD25](https://arxiv.org/pdf/2401.16777).
 
 
 * **Automated Feature Engineering**
