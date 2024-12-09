@@ -10,7 +10,7 @@ redirect_from:
 
 Wei Fan is currently working as a Postdoctoral Researcher in the Medical Sciences Division at the [University of Oxford](https://www.medsci.ox.ac.uk/), UK. His research focuses on data-centric AI, time series modeling, and spatial-temporal data mining. He is also dedicated to applying these methods to solve real-world data science applications, such as healthcare, transportation, and energy. Wei earned his Ph.D. degree in Computer Science from the [University of Central Florida](https://www.cs.ucf.edu/). He has interned at industry organizations such as [Microsoft Research](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/research/), [Baidu Research](https://research.baidu.com/), and [Bytedance AI Lab](https://www.bytedance.com/en/). 
 
-Wei has published over 20 papers in leading machine learning and data mining journals (e.g., TKDE, TKDD) and conferences (e.g., ICLR, NeurIPS, KDD, AAAI, IJCAI). Two of his papers were selected as spotlight papers of ICLR. He has also co-organized Workshops at conferences such as [ICDM](https://data-centric-ai-dev.github.io/ICDM2024/) and [CIKM](https://data-centric-ai-dev.github.io/CIKM2024/). Wei also serves as a PC member/reviewer for conferences and journals such as ICLR, NeurIPS, KDD, WWW, IJCAI, AAAI, MM, SDM, LOG, AISTATS, PRICAI, IEEE Bigdata, IEEE TKDE, IEEE TCSS, IEEE IoT, IEEE TBD, ACM TKDD, ACM TOIS, ACM TOMM, Scientific Reports.
+Wei has published over 30 papers in leading machine learning and data mining journals (e.g., TKDE, TKDD) and conferences (e.g., ICLR, NeurIPS, KDD, AAAI, IJCAI). Two of his papers were selected as spotlight papers of ICLR. He has also co-organized Workshops at conferences such as [ICDM](https://data-centric-ai-dev.github.io/ICDM2024/) and [CIKM](https://data-centric-ai-dev.github.io/CIKM2024/). Wei also serves as a PC member/reviewer for conferences and journals such as ICLR, NeurIPS, KDD, WWW, IJCAI, AAAI, MM, SDM, LOG, AISTATS, PRICAI, IEEE Bigdata, IEEE TKDE, IEEE TCSS, IEEE IoT, IEEE TBD, ACM TKDD, ACM TOIS, ACM TOMM, Scientific Reports.
 
 
 <!-- Wei Fan is currently working as a postdoctoral researcher in medical sciences division of University of Oxford with [Prof. Kazem Rahimi](https://scholar.google.co.uk/citations?hl=en&user=5u7TxAMAAAAJ) and [Dr. Shishir Rao](https://www.wrh.ox.ac.uk/team/shishir-rao). He recieved my Ph.D. degree in Computer Science from University of Central Florida in 2023. I recieved my B.E. degree of Computer Science and Technology from Beijing University of Posts and Telecommunications (BUPT) in 2020. My research interests mainly include data mining, machine learning, time series analysis and epidemiology.
@@ -18,12 +18,17 @@ Wei has published over 20 papers in leading machine learning and data mining jou
 Luckily, I have onced worked as a research intern in Microsoft Research Asia with [Dr. Shun Zheng](https://www.microsoft.com/en-us/research/people/shunzhen/) and [Dr. Jiang Bian](https://sites.google.com/view/jiangbian). I was a research intern at Baidu Research, supervised by [Prof. Hui Xiong](http://datamining.rutgers.edu/). I also worked a research intern at Baidu Research supervised by [Prof. Hao Liu](https://raymondhliu.github.io/). Before that, I have been an algorithm intern at speech team of Bytedance AI Lab. Besides, I have once worked as a undergraduate research assisitant with [Dr. Tianyu Liu](https://tyliupku.github.io/) and [Prof. Wenfei Wu](https://wenfei-wu.github.io/).
  -->
 
+News
+======
+* [12/2024] Three papers on time series modeling, brain analysis, and molecule generation have been accepted by AAAI 2025. Congrats to all my coauthors!
+* [11/2024] One paper on distribution shift in time series and non-stationary forecasting has been accepted by KDD 2025 August Track. Congrats to me!
+
+
 
 Education
 ======
 * **Ph.D.** in Computer Science, University of Central Florida, 2023 
 * **B.E.** in Computer Science, Beijing University of Posts and Telecommunications, 2020
-
 
 
 
@@ -41,11 +46,11 @@ Professional Experience
 
 Publication
 ======
-I have published 20+ papers in prestigious journals and conferences, including data mining and machine learning venues (e.g., TKDE, TKDD, ICLR, NeurIPS, ICML, AAAI, IJCAI, ICDM, SDM, EMNLP, etc). Among them, I got two spotlight papers in ICLR 2022 and ICLR 2024 respectively. More details can be found at my [Google Scholar](https://scholar.google.com/citations?user=cQ8zLJ4AAAAJ&hl=en). The representative papers can be categorized as follows:
+I have published 30+ papers in prestigious journals and conferences, including data mining and machine learning venues (e.g., TKDE, TKDD, ICLR, NeurIPS, ICML, AAAI, IJCAI, ICDM, SDM, EMNLP, etc). Among them, I got two spotlight papers in ICLR 2022 and ICLR 2024 respectively. More details can be found at my [Google Scholar](https://scholar.google.com/citations?user=cQ8zLJ4AAAAJ&hl=en). The representative papers can be categorized as follows:
 
 * **Deep Time Series Modeling**
   * The Data Learning Perspective: [ICLR 22](https://arxiv.org/pdf/2203.07681), [NeurIPS 23](https://proceedings.neurips.cc/paper_files/paper/2023/file/f1d16af76939f476b5f040fd1398c0a3-Paper-Conference.pdf), [NeurIPS 23](https://proceedings.neurips.cc/paper_files/paper/2023/file/dc1e32dd3eb381dbc71482f6a96cbf86-Paper-Conference.pdf), [NeurIPS 24](https://arxiv.org/pdf/2411.01623)
-  * The Data Manipulating Perspective: [AAAI 23](https://arxiv.org/abs/2302.14829), [IJCAI 24](https://arxiv.org/pdf/2407.00502), [IJCAI 24](https://www.ijcai.org/proceedings/2024/0275.pdf), [KDD25](https://arxiv.org/pdf/2401.16777).
+  * The Data Manipulating Perspective: [AAAI 23](https://arxiv.org/abs/2302.14829), [IJCAI 24](https://arxiv.org/pdf/2407.00502), [IJCAI 24](https://www.ijcai.org/proceedings/2024/0275.pdf), [KDD 25](https://arxiv.org/pdf/2401.16777).
 
 
 * **Automated Feature Engineering**
