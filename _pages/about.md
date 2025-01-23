@@ -20,6 +20,8 @@ Luckily, I have onced worked as a research intern in Microsoft Research Asia wit
 
 News
 ======
+* [01/2025] One paper on tabular representation learning for anomaly detection has been accepted by ICLR 2025. Congrats to all my coauthors!
+* [01/2025] One paper on medical time series classification (e.g., EEG, ECG) has been accepted by the Web Conference (WWW) 2025. Congrats to me and my coauthors!
 * [12/2024] Three papers on time series modeling, brain analysis, and molecule generation have been accepted by AAAI 2025. Congrats to all my coauthors!
 * [11/2024] One paper on distribution shift in time series and non-stationary forecasting has been accepted by KDD 2025 August Track. Congrats to me and thanks to my coauthors!
 
@@ -91,7 +93,8 @@ As a Program Committee member or Reviewer, I provide review comments to papers:
 * ACM Transactions on Knowledge Discovery from Data (TKDD)
 * ACM Transactions on Information Systems (TOIS)
 * ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)
-* Nature Scientific Reports
+* Information Processing and Management
+* Scientific Reports
 
 
 <!-- 
