@@ -20,6 +20,9 @@ Luckily, I have onced worked as a research intern in Microsoft Research Asia wit
 
 News
 ======
+* [06/2025] One paper has been accepted by IEEE Transactions on Computational Social Systems. Congrats to all my coauthors!
+* [05/2025] One survey paper and a tutorial on deep frequency learning for time series has been accepted by KDD 2025. Please refer to [Deep Learning in Frequency Domain](https://hh4ts.github.io/Deep_Learning_in_Frequency_Domain_Tutorial/)
+* [04/2025] Two papers on spatiotemporal modeling has been accepted by IJCAI 2025. Congrats to all my coauthors!
 * [01/2025] One paper on tabular representation learning for anomaly detection has been accepted by ICLR 2025. Congrats to all my coauthors!
 * [01/2025] One paper on medical time series classification (e.g., EEG, ECG) has been accepted by the Web Conference (WWW) 2025. Congrats to me and my coauthors!
 * [12/2024] Three papers on time series modeling, brain analysis, and molecule generation have been accepted by AAAI 2025. Congrats to all my coauthors!
@@ -66,20 +69,25 @@ I have published 30+ papers in prestigious journals and conferences, including d
 * **Spatial-temporal Data Mining and Interdisciplinary Applications**
   * Urban Computing and Smart City Applications: [ICDM 23](https://ieeexplore.ieee.org/abstract/document/10415754/), [SDM 24](https://epubs.siam.org/doi/pdf/10.1137/1.9781611978032.42), [IJCAI 24](https://www.ijcai.org/proceedings/2024/0228.pdf)
   * Energy Forecasting: [TKDD 24](https://arxiv.org/pdf/2401.00644)
-  * Medical Signal Classification: Preprint
+  * Medical Signal Classification: [WWW 25](https://arxiv.org/abs/2502.04515)
 
 
 
 Services
 ======
+As a Area Chair or Senior Program Committee member, I provide review comments to papers:
+* IEEE International Conference on Data Science and Advanced Analytics (DSAA), 2025
+
 As a Program Committee member or Reviewer, I provide review comments to papers:
 * International Conference on Learning Representations (ICLR), 2023, 2024, 2025
-* The Conference on Neural Information Processing Systems (NeurIPS), 2023, 2024 
+* The Conference on Neural Information Processing Systems (NeurIPS), 2023, 2024, 2025
 * ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023, 2024, 2025
+* International Conference on Machine Learning (ICML), 2025
 * ACM International World Wide Web Conference (WWW), 2024, 2025
 * The AAAI Conference on Artificial Intelligence (AAAI), 2023, 2024, 2025
 * The International Joint Conference on Artificial Intelligence (IJCAI), 2023, 2024
 * ACM Annual Conference on Multimedia (MM), 2024
+* ACM Special Interest Group on Spatial Information (Sigspatial), 2025
 * ACM International Conference on Information and Knowledge Management (CIKM), 2023
 * SIAM International Conference on Data Mining (SDM), 2024.
 * IEEE International Conference on Big Data (IEEE BigData), 2024.
@@ -95,6 +103,9 @@ As a Program Committee member or Reviewer, I provide review comments to papers:
 * ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)
 * Information Processing and Management
 * Scientific Reports
+
+Editoral Board member:
+* International Journal of Intelligent Networks
 
 
 <!-- 
