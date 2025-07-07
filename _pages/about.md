@@ -25,7 +25,7 @@ News
 * [04/2025] Two papers on spatiotemporal modeling has been accepted by IJCAI 2025. Congrats to all my coauthors!
 * [01/2025] One paper on tabular representation learning for anomaly detection has been accepted by ICLR 2025. Congrats to all my coauthors!
 * [01/2025] One paper on medical time series classification (e.g., EEG, ECG) has been accepted by the Web Conference (WWW) 2025. Congrats to me and my coauthors!
-* [01/2025] One paper on protein function modeling Nature Communications. Congrats to my coauthors!
+* [01/2025] One paper on protein function modeling has been published in Nature Communications. Congrats to my coauthors!
 * [12/2024] Three papers on time series modeling, brain analysis, and molecule generation have been accepted by AAAI 2025. Congrats to all my coauthors!
 * [11/2024] One paper on distribution shift in time series and non-stationary forecasting has been accepted by KDD 2025 August Track. Congrats to me and thanks to my coauthors!
 
