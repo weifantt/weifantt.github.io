@@ -7,10 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am an incoming Lecturer (equivalent to Assistant Professor in the US) at the University of Auckland. My research focuses on data-centric AI, data mining, time series modeling, and spatial-temporal data mining, and I am also dedicated to applying these methods to solve real-world data science applications, such as healthcare, transportation, and energy. I have been working as a Postdoctoral Researcher in the Medical Sciences Division at the [University of Oxford](https://www.medsci.ox.ac.uk/), UK. I earned my Ph.D. degree in Computer Science from the [University of Central Florida](https://www.cs.ucf.edu/) in 2023 and my B.E. degree from BUPT in 2020. I have interned at several industry organizations such as [Microsoft Research](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/research/), [Baidu Research](https://research.baidu.com/), and [Bytedance AI Lab](https://www.bytedance.com/en/). 
 
-Wei Fan is currently working as a Postdoctoral Researcher in the Medical Sciences Division at the [University of Oxford](https://www.medsci.ox.ac.uk/), UK. His research focuses on data-centric AI, time series modeling, and spatial-temporal data mining. He is also dedicated to applying these methods to solve real-world data science applications, such as healthcare, transportation, and energy. Wei earned his Ph.D. degree in Computer Science from the [University of Central Florida](https://www.cs.ucf.edu/). He has interned at industry organizations such as [Microsoft Research](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/research/), [Baidu Research](https://research.baidu.com/), and [Bytedance AI Lab](https://www.bytedance.com/en/). 
+<span style="font-size: smaller; color: red;">I am seeking self-motivated individuals who are interested in pursuing a PhD or research master's degree at the University of Auckland.</span>
 
-Wei has published over 30 papers in leading machine learning and data mining journals (e.g., TKDE, TKDD) and conferences (e.g., ICLR, NeurIPS, KDD, AAAI, IJCAI). Two of his papers were selected as spotlight papers of ICLR. He has also co-organized Workshops at conferences such as [ICDM](https://data-centric-ai-dev.github.io/ICDM2024/) and [CIKM](https://data-centric-ai-dev.github.io/CIKM2024/), and [ACM Sigspatial](https://geogenagent.github.io/SIGSPATIAL2025-Workshop/). Wei also serves as a PC member/reviewer for conferences and journals such as ICLR, NeurIPS, KDD, WWW, IJCAI, AAAI, MM, SDM, LOG, AISTATS, PRICAI, IEEE Bigdata, IEEE TKDE, IEEE TCSS, IEEE IoT, IEEE TBD, ACM TKDD, ACM TOIS, ACM TOMM, Scientific Reports.
+I have published over 40 papers in leading data mining, machine learning and interdisciplinary journals (e.g., TKDE, TKDD, Nat. Comm.) and conferences (e.g., ICLR, NeurIPS, KDD, WWW, AAAI, IJCAI). Two of my papers were selected as spotlight papers of ICLR. I have also co-organized Workshops at conferences such as [ICDM](https://data-centric-ai-dev.github.io/ICDM2024/) and [CIKM](https://data-centric-ai-dev.github.io/CIKM2024/), [SIGSpatial](https://geogenagent.github.io/SIGSPATIAL2025-Workshop/), and [KDD](https://ai-for-data-editing.github.io/KDD25-workshop/). I have also served as a PC member/reviewer for conferences and journals such as ICLR, NeurIPS, KDD, WWW, IJCAI, AAAI, MM, SDM, LOG, AISTATS, PRICAI, IEEE Bigdata, IEEE TKDE, IEEE TCSS, IEEE IoT, IEEE TBD, ACM TKDD, ACM TOIS, ACM TOMM, Scientific Reports.
 
 
 <!-- Wei Fan is currently working as a postdoctoral researcher in medical sciences division of University of Oxford with [Prof. Kazem Rahimi](https://scholar.google.co.uk/citations?hl=en&user=5u7TxAMAAAAJ) and [Dr. Shishir Rao](https://www.wrh.ox.ac.uk/team/shishir-rao). He recieved my Ph.D. degree in Computer Science from University of Central Florida in 2023. I recieved my B.E. degree of Computer Science and Technology from Beijing University of Posts and Telecommunications (BUPT) in 2020. My research interests mainly include data mining, machine learning, time series analysis and epidemiology.
@@ -20,8 +21,8 @@ Luckily, I have onced worked as a research intern in Microsoft Research Asia wit
 
 News
 ======
-* [06/2025] One paper has been accepted by IEEE Transactions on Computational Social Systems. Congrats to all my coauthors!
-* [05/2025] One survey paper and a tutorial on deep frequency learning for time series has been accepted by KDD 2025. Please refer to [Deep Learning in Frequency Domain](https://hh4ts.github.io/Deep_Learning_in_Frequency_Domain_Tutorial/)
+* [06/2025] One paper has been accepted by IEEE Transactions on Computational Social Systems. Congrats!
+* [05/2025] One survey paper and a tutorial on deep frequency learning for time series has been accepted by KDD 2025. Please refer to [Deep Learning in Frequency Domain](https://hh4ts.github.io/Deep_Learning_in_Frequency_Domain_Tutorial/).
 * [04/2025] Two papers on spatiotemporal modeling has been accepted by IJCAI 2025. Congrats to all my coauthors!
 * [01/2025] One paper on tabular representation learning for anomaly detection has been accepted by ICLR 2025. Congrats to all my coauthors!
 * [01/2025] One paper on medical time series classification (e.g., EEG, ECG) has been accepted by the Web Conference (WWW) 2025. Congrats to me and my coauthors!
@@ -41,7 +42,6 @@ Education
 Professional Experience
 ======
 * **Postdoctoral Researcher**, Medical Sciences Division, University of Oxford, 2024
-* **Visiting Scholar**, University of Macau, 2023
 * **Research Intern**, Vision Lab, Baidu Research, 2022
 * **Research Intern**, Machine Learning Group, Microsoft Research Asia, 2021
 * **Research Intern**, Business Intelligence Lab, Baidu Research, 2020
