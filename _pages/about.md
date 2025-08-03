@@ -7,18 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an incoming Lecturer (equivalent to Assistant Professor in the US) at the University of Auckland. My research focuses on data-centric AI, data mining, time series modeling, and spatial-temporal data mining, and I am also dedicated to applying these methods to solve real-world data science applications, such as healthcare, transportation, and energy. I have been working as a Postdoctoral Researcher in the Medical Sciences Division at the [University of Oxford](https://www.medsci.ox.ac.uk/), UK. I earned my Ph.D. degree in Computer Science from the [University of Central Florida](https://www.cs.ucf.edu/) in 2023 and my B.E. degree from BUPT in 2020. I have interned at several industry organizations such as [Microsoft Research](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/research/), [Baidu Research](https://research.baidu.com/), and [Bytedance AI Lab](https://www.bytedance.com/en/). 
+<span style="font-size: smaller">I am an incoming Lecturer (equivalent to Assistant Professor in the US) at the University of Auckland. My research focuses on data-centric AI, data mining, time series modeling, and spatial-temporal data mining, and I am also dedicated to applying these methods to solve real-world data science applications, such as healthcare, transportation, and energy. I have been working as a Postdoctoral Researcher in the Medical Sciences Division at the [University of Oxford](https://www.medsci.ox.ac.uk/), UK. I earned my Ph.D. degree in Computer Science from the [University of Central Florida](https://www.cs.ucf.edu/) in 2023 and my B.E. degree from BUPT in 2020. I have interned at several industry organizations such as [Microsoft Research](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/research/), [Baidu Research](https://research.baidu.com/), and [Bytedance AI Lab](https://www.bytedance.com/en/). 
+</span>
 
 <span style="font-size: smaller; color: red;">I am seeking self-motivated individuals who are interested in pursuing a PhD or research master's degree at the University of Auckland.</span>
 
-I have published over 40 papers in leading data mining, machine learning and interdisciplinary journals (e.g., TKDE, TKDD, Nat. Comm.) and conferences (e.g., ICLR, NeurIPS, KDD, WWW, AAAI, IJCAI). Two of my papers were selected as spotlight papers of ICLR. I have also co-organized Workshops at conferences such as [ICDM](https://data-centric-ai-dev.github.io/ICDM2024/) and [CIKM](https://data-centric-ai-dev.github.io/CIKM2024/), [SIGSpatial](https://geogenagent.github.io/SIGSPATIAL2025-Workshop/), and [KDD](https://ai-for-data-editing.github.io/KDD25-workshop/). I have also served as a PC member/reviewer for conferences and journals such as ICLR, NeurIPS, KDD, WWW, IJCAI, AAAI, MM, SDM, LOG, AISTATS, PRICAI, IEEE Bigdata, IEEE TKDE, IEEE TCSS, IEEE IoT, IEEE TBD, ACM TKDD, ACM TOIS, ACM TOMM, Scientific Reports.
+<span style="font-size: smaller">I have published over 40 papers in leading data mining, machine learning and interdisciplinary journals (e.g., TKDE, TKDD, Nat. Comm.) and conferences (e.g., ICLR, NeurIPS, KDD, WWW, AAAI, IJCAI). Two of my papers were selected as spotlight papers of ICLR. I have also co-organized Workshops at conferences such as [ICDM](https://data-centric-ai-dev.github.io/ICDM2024/) and [CIKM](https://data-centric-ai-dev.github.io/CIKM2024/), [SIGSpatial](https://geogenagent.github.io/SIGSPATIAL2025-Workshop/), and [KDD](https://ai-for-data-editing.github.io/KDD25-workshop/). I have also served as a PC member/reviewer for conferences and journals such as ICLR, NeurIPS, KDD, WWW, IJCAI, AAAI, MM, SDM, LOG, AISTATS, PRICAI, IEEE Bigdata, IEEE TKDE, IEEE TCSS, IEEE IoT, IEEE TBD, ACM TKDD, ACM TOIS, ACM TOMM, Scientific Reports.</span>
 
 
 <!-- Wei Fan is currently working as a postdoctoral researcher in medical sciences division of University of Oxford with [Prof. Kazem Rahimi](https://scholar.google.co.uk/citations?hl=en&user=5u7TxAMAAAAJ) and [Dr. Shishir Rao](https://www.wrh.ox.ac.uk/team/shishir-rao). He recieved my Ph.D. degree in Computer Science from University of Central Florida in 2023. I recieved my B.E. degree of Computer Science and Technology from Beijing University of Posts and Telecommunications (BUPT) in 2020. My research interests mainly include data mining, machine learning, time series analysis and epidemiology.
 
 Luckily, I have onced worked as a research intern in Microsoft Research Asia with [Dr. Shun Zheng](https://www.microsoft.com/en-us/research/people/shunzhen/) and [Dr. Jiang Bian](https://sites.google.com/view/jiangbian). I was a research intern at Baidu Research, supervised by [Prof. Hui Xiong](http://datamining.rutgers.edu/). I also worked a research intern at Baidu Research supervised by [Prof. Hao Liu](https://raymondhliu.github.io/). Before that, I have been an algorithm intern at speech team of Bytedance AI Lab. Besides, I have once worked as a undergraduate research assisitant with [Dr. Tianyu Liu](https://tyliupku.github.io/) and [Prof. Wenfei Wu](https://wenfei-wu.github.io/).
  -->
-
+<span style="font-size: smaller">
 News
 ======
 * [06/2025] One paper has been accepted by IEEE Transactions on Computational Social Systems. Congrats!
@@ -107,7 +108,7 @@ As a Program Committee member or Reviewer, I provide review comments to papers:
 
 Editoral Board member:
 * International Journal of Intelligent Networks
-
+span>
 
 <!-- 
 Services
