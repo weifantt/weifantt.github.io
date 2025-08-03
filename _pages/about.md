@@ -19,21 +19,8 @@ redirect_from:
 
 Luckily, I have onced worked as a research intern in Microsoft Research Asia with [Dr. Shun Zheng](https://www.microsoft.com/en-us/research/people/shunzhen/) and [Dr. Jiang Bian](https://sites.google.com/view/jiangbian). I was a research intern at Baidu Research, supervised by [Prof. Hui Xiong](http://datamining.rutgers.edu/). I also worked a research intern at Baidu Research supervised by [Prof. Hao Liu](https://raymondhliu.github.io/). Before that, I have been an algorithm intern at speech team of Bytedance AI Lab. Besides, I have once worked as a undergraduate research assisitant with [Dr. Tianyu Liu](https://tyliupku.github.io/) and [Prof. Wenfei Wu](https://wenfei-wu.github.io/).
  -->
-<div style="font-size: small;">
-News
-======
-* [06/2025] One paper has been accepted by IEEE Transactions on Computational Social Systems. Congrats!
-* [05/2025] One survey paper and a tutorial on deep frequency learning for time series has been accepted by KDD 2025. Please refer to [Deep Learning in Frequency Domain](https://hh4ts.github.io/Deep_Learning_in_Frequency_Domain_Tutorial/).
-* [04/2025] Two papers on spatiotemporal modeling has been accepted by IJCAI 2025. Congrats to all my coauthors!
-* [01/2025] One paper on tabular representation learning for anomaly detection has been accepted by ICLR 2025. Congrats to all my coauthors!
-* [01/2025] One paper on medical time series classification (e.g., EEG, ECG) has been accepted by the Web Conference (WWW) 2025. Congrats to me and my coauthors!
-* [01/2025] One paper on protein function modeling has been published in Nature Communications. Congrats to my coauthors!
-* [12/2024] Three papers on time series modeling, brain analysis, and molecule generation have been accepted by AAAI 2025. Congrats to all my coauthors!
-* [11/2024] One paper on distribution shift in time series and non-stationary forecasting has been accepted by KDD 2025 August Track. Congrats to me and thanks to my coauthors!
 
-
-
-Education
+<!-- Education
 ======
 * **Ph.D.** in Computer Science, University of Central Florida, 2023 
 * **B.E.** in Computer Science, Beijing University of Posts and Telecommunications, 2020
@@ -46,13 +33,29 @@ Professional Experience
 * **Research Intern**, Vision Lab, Baidu Research, 2022
 * **Research Intern**, Machine Learning Group, Microsoft Research Asia, 2021
 * **Research Intern**, Business Intelligence Lab, Baidu Research, 2020
-* **Algorithm Intern**, Speech Team, Bytedance AI Lab, 2019
+* **Algorithm Intern**, Speech Team, Bytedance AI Lab, 2019 -->
+
+
+
+News
+======
+<small>
+* [06/2025] One paper has been accepted by IEEE Transactions on Computational Social Systems. Congrats!
+* [05/2025] One survey paper and a tutorial on deep frequency learning for time series has been accepted by KDD 2025. Please refer to [Deep Learning in Frequency Domain](https://hh4ts.github.io/Deep_Learning_in_Frequency_Domain_Tutorial/).
+* [04/2025] Two papers on spatiotemporal modeling has been accepted by IJCAI 2025. Congrats to all my coauthors!
+* [01/2025] One paper on tabular representation learning for anomaly detection has been accepted by ICLR 2025. Congrats to all my coauthors!
+* [01/2025] One paper on medical time series classification (e.g., EEG, ECG) has been accepted by the Web Conference (WWW) 2025. Congrats to me and my coauthors!
+* [01/2025] One paper on protein function modeling has been published in Nature Communications. Congrats to my coauthors!
+* [12/2024] Three papers on time series modeling, brain analysis, and molecule generation have been accepted by AAAI 2025. Congrats to all my coauthors!
+* [11/2024] One paper on distribution shift in time series and non-stationary forecasting has been accepted by KDD 2025 August Track. Congrats to me and thanks to my coauthors!
+</small>
 
 
 
 
 Publication
 ======
+<small>
 I have published 30+ papers in prestigious journals and conferences, including data mining and machine learning venues (e.g., TKDE, TKDD, ICLR, NeurIPS, ICML, AAAI, IJCAI, ICDM, SDM, EMNLP, etc). Among them, I got two spotlight papers in ICLR 2022 and ICLR 2024 respectively. More details can be found at my [Google Scholar](https://scholar.google.com/citations?user=cQ8zLJ4AAAAJ&hl=en). The representative papers can be categorized as follows:
 
 * **Deep Time Series Modeling**
@@ -72,11 +75,12 @@ I have published 30+ papers in prestigious journals and conferences, including d
   * Urban Computing and Smart City Applications: [ICDM 23](https://ieeexplore.ieee.org/abstract/document/10415754/), [SDM 24](https://epubs.siam.org/doi/pdf/10.1137/1.9781611978032.42), [IJCAI 24](https://www.ijcai.org/proceedings/2024/0228.pdf)
   * Energy Forecasting: [TKDD 24](https://arxiv.org/pdf/2401.00644)
   * Medical Signal Classification: [WWW 25](https://arxiv.org/abs/2502.04515)
-
+</small>
 
 
 Services
 ======
+<small>
 As a Area Chair or Senior Program Committee member, I provide review comments to papers:
 * IEEE International Conference on Data Science and Advanced Analytics (DSAA), 2025
 
@@ -108,7 +112,7 @@ As a Program Committee member or Reviewer, I provide review comments to papers:
 
 Editoral Board member:
 * International Journal of Intelligent Networks
-</div>
+</small>
 
 <!-- 
 Services
