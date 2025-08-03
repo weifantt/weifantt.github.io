@@ -8,77 +8,77 @@ redirect_from:
   - /about.html
 ---
 
-<p style="font-size: smaller;">
+<p>
 I am an incoming Lecturer (equivalent to Assistant Professor in the US) at the <a href="https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/computer-science.html">University of Auckland</a>. My research focuses on data-centric AI, data mining, time series modeling, and spatial-temporal data mining, and I am also dedicated to applying these methods to solve real-world data science applications, such as healthcare, transportation, and energy. I have been working as a Postdoctoral Researcher in the Medical Sciences Division at the <a href="https://www.medsci.ox.ac.uk/">University of Oxford</a>, UK. I earned my Ph.D. degree in Computer Science from the <a href="https://www.cs.ucf.edu/">University of Central Florida</a> in 2023 and my B.E. degree from BUPT in 2020. I have interned at several industry organizations such as <a href="https://www.microsoft.com/en-us/research/group/machine-learning-research-group/research/">Microsoft Research</a>, <a href="https://research.baidu.com/">Baidu Research</a>, and <a href="https://www.bytedance.com/en/">Bytedance AI Lab</a>.
 </p>
 
-<p style="font-size: smaller; color: red;">
+<p style="color: red;">
 I am seeking self-motivated individuals who are interested in pursuing a PhD or research master's degree at the University of Auckland.
 </p>
 
-<p style="font-size: smaller;">
+<p>
 I have published over 40 papers in leading data mining, machine learning and interdisciplinary journals (e.g., TKDE, TKDD, Nat. Comm.) and conferences (e.g., ICLR, NeurIPS, KDD, WWW, AAAI, IJCAI). Two of my papers were selected as spotlight papers of ICLR. I have also co-organized Workshops at conferences such as <a href="https://data-centric-ai-dev.github.io/ICDM2024/">ICDM</a>, <a href="https://data-centric-ai-dev.github.io/CIKM2024/">CIKM</a>, <a href="https://geogenagent.github.io/SIGSPATIAL2025-Workshop/">SIGSpatial</a>, and <a href="https://ai-for-data-editing.github.io/KDD25-workshop/">KDD</a>. I have also served as a PC member/reviewer for conferences and journals such as ICLR, NeurIPS, KDD, WWW, IJCAI, AAAI, MM, SDM, LOG, AISTATS, PRICAI, IEEE Bigdata, IEEE TKDE, IEEE TCSS, IEEE IoT, IEEE TBD, ACM TKDD, ACM TOIS, ACM TOMM, Scientific Reports.
 </p>
 
 ## News
-* <small>[06/2025] One paper has been accepted by IEEE Transactions on Computational Social Systems. Congrats!</small>
-* <small>[05/2025] One survey paper and a tutorial on deep frequency learning for time series has been accepted by KDD 2025. Please refer to [Deep Learning in Frequency Domain](https://hh4ts.github.io/Deep_Learning_in_Frequency_Domain_Tutorial/).</small>
-* <small>[04/2025] Two papers on spatiotemporal modeling has been accepted by IJCAI 2025. Congrats to all my coauthors!</small>
-* <small>[01/2025] One paper on tabular representation learning for anomaly detection has been accepted by ICLR 2025. Congrats to all my coauthors!</small>
-* <small>[01/2025] One paper on medical time series classification (e.g., EEG, ECG) has been accepted by the Web Conference (WWW) 2025. Congrats to me and my coauthors!</small>
-* <small>[01/2025] One paper on protein function modeling has been published in Nature Communications. Congrats to my coauthors!</small>
-* <small>[12/2024] Three papers on time series modeling, brain analysis, and molecule generation have been accepted by AAAI 2025. Congrats to all my coauthors!</small>
-* <small>[11/2024] One paper on distribution shift in time series and non-stationary forecasting has been accepted by KDD 2025 August Track. Congrats to me and thanks to my coauthors!</small>
+* [06/2025] One paper has been accepted by IEEE Transactions on Computational Social Systems. Congrats!
+* [05/2025] One survey paper and a tutorial on deep frequency learning for time series has been accepted by KDD 2025. Please refer to [Deep Learning in Frequency Domain](https://hh4ts.github.io/Deep_Learning_in_Frequency_Domain_Tutorial/).
+* [04/2025] Two papers on spatiotemporal modeling has been accepted by IJCAI 2025. Congrats to all my coauthors!
+* [01/2025] One paper on tabular representation learning for anomaly detection has been accepted by ICLR 2025. Congrats to all my coauthors!
+* [01/2025] One paper on medical time series classification (e.g., EEG, ECG) has been accepted by the Web Conference (WWW) 2025. Congrats to me and my coauthors!
+* [01/2025] One paper on protein function modeling has been published in Nature Communications. Congrats to my coauthors!
+* [12/2024] Three papers on time series modeling, brain analysis, and molecule generation have been accepted by AAAI 2025. Congrats to all my coauthors!
+* [11/2024] One paper on distribution shift in time series and non-stationary forecasting has been accepted by KDD 2025 August Track. Congrats to me and thanks to my coauthors!
 
 ## Publication
-<small>I have published 30+ papers in prestigious journals and conferences, including data mining and machine learning venues (e.g., TKDE, TKDD, ICLR, NeurIPS, ICML, AAAI, IJCAI, ICDM, SDM, EMNLP, etc). Among them, I got two spotlight papers in ICLR 2022 and ICLR 2024 respectively. More details can be found at my [Google Scholar](https://scholar.google.com/citations?user=cQ8zLJ4AAAAJ&hl=en). The representative papers can be categorized as follows:</small>
+I have published 30+ papers in prestigious journals and conferences, including data mining and machine learning venues (e.g., TKDE, TKDD, ICLR, NeurIPS, ICML, AAAI, IJCAI, ICDM, SDM, EMNLP, etc). Among them, I got two spotlight papers in ICLR 2022 and ICLR 2024 respectively. More details can be found at my [Google Scholar](https://scholar.google.com/citations?user=cQ8zLJ4AAAAJ&hl=en). The representative papers can be categorized as follows:
 
-* <small>**Deep Time Series Modeling**</small>
-    * <small>The Data Learning Perspective: [ICLR 22](https://arxiv.org/pdf/2203.07681), [NeurIPS 23](https://proceedings.neurips.cc/paper_files/paper/2023/file/f1d16af76939f476b5f040fd1398c0a3-Paper-Conference.pdf), [NeurIPS 23](https://proceedings.neurips.cc/paper_files/paper/2023/file/dc1e32dd3eb381dbc71482f6a96cbf86-Paper-Conference.pdf), [NeurIPS 24](https://arxiv.org/pdf/2411.01623)</small>
-    * <small>The Data Manipulating Perspective: [AAAI 23](https://arxiv.org/abs/2302.14829), [IJCAI 24](https://arxiv.org/pdf/2407.00502), [IJCAI 24](https://www.ijcai.org/proceedings/2024/0275.pdf), [KDD 25](https://arxiv.org/pdf/2401.16777)</small>
-* <small>**Automated Feature Engineering**</small>
-    * <small>Automated Feature Selection: [ICDM 20](https://arxiv.org/pdf/2008.12001), [TKDE 21](https://arxiv.org/pdf/2010.02506), [SDM 21](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976700.39)</small>
-    * <small>Automated Instance and Feature Selection: [IJCAI 22](https://arxiv.org/pdf/2205.07867)</small>
-* <small>**Deep Representation Learning**</small>
-    * <small>Tabular Representation Learning: [ICLR 24](https://arxiv.org/pdf/2407.05364)</small>
-    * <small>Graph Representation Learning: [ICDM 21](https://drive.google.com/file/d/1PmEooa7_yvpahb7aEsv1xIC3G4ZgwUHp/view), [EMNLP 22](https://arxiv.org/pdf/2204.13221)</small>
-* <small>**Spatial-temporal Data Mining and Interdisciplinary Applications**</small>
-    * <small>Urban Computing and Smart City Applications: [ICDM 23](https://ieeexplore.ieee.org/abstract/document/10415754/), [SDM 24](https://epubs.siam.org/doi/pdf/10.1137/1.9781611978032.42), [IJCAI 24](https://www.ijcai.org/proceedings/2024/0228.pdf)</small>
-    * <small>Energy Forecasting: [TKDD 24](https://arxiv.org/pdf/2401.00644)</small>
-    * <small>Medical Signal Classification: [WWW 25](https://arxiv.org/abs/2502.04515)</small>
+* **Deep Time Series Modeling**
+    * The Data Learning Perspective: [ICLR 22](https://arxiv.org/pdf/2203.07681), [NeurIPS 23](https://proceedings.neurips.cc/paper_files/paper/2023/file/f1d16af76939f476b5f040fd1398c0a3-Paper-Conference.pdf), [NeurIPS 23](https://proceedings.neurips.cc/paper_files/paper/2023/file/dc1e32dd3eb381dbc71482f6a96cbf86-Paper-Conference.pdf), [NeurIPS 24](https://arxiv.org/pdf/2411.01623)
+    * The Data Manipulating Perspective: [AAAI 23](https://arxiv.org/abs/2302.14829), [IJCAI 24](https://arxiv.org/pdf/2407.00502), [IJCAI 24](https://www.ijcai.org/proceedings/2024/0275.pdf), [KDD 25](https://arxiv.org/pdf/2401.16777)
+* **Automated Feature Engineering**
+    * Automated Feature Selection: [ICDM 20](https://arxiv.org/pdf/2008.12001), [TKDE 21](https://arxiv.org/pdf/2010.02506), [SDM 21](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976700.39)
+    * Automated Instance and Feature Selection: [IJCAI 22](https://arxiv.org/pdf/2205.07867)
+* **Deep Representation Learning**
+    * Tabular Representation Learning: [ICLR 24](https://arxiv.org/pdf/2407.05364)
+    * Graph Representation Learning: [ICDM 21](https://drive.google.com/file/d/1PmEooa7_yvpahb7aEsv1xIC3G4ZgwUHp/view), [EMNLP 22](https://arxiv.org/pdf/2204.13221)
+* **Spatial-temporal Data Mining and Interdisciplinary Applications**
+    * Urban Computing and Smart City Applications: [ICDM 23](https://ieeexplore.ieee.org/abstract/document/10415754/), [SDM 24](https://epubs.siam.org/doi/pdf/10.1137/1.9781611978032.42), [IJCAI 24](https://www.ijcai.org/proceedings/2024/0228.pdf)
+    * Energy Forecasting: [TKDD 24](https://arxiv.org/pdf/2401.00644)
+    * Medical Signal Classification: [WWW 25](https://arxiv.org/abs/2502.04515)
 
 ## Services
 **Area Chair / Senior Program Committee**
-* <small>IEEE International Conference on Data Science and Advanced Analytics (DSAA), 2025</small>
+* IEEE International Conference on Data Science and Advanced Analytics (DSAA), 2025
 
 **Program Committee / Reviewer**
-* <small>International Conference on Learning Representations (ICLR), 2023, 2024, 2025</small>
-* <small>The Conference on Neural Information Processing Systems (NeurIPS), 2023, 2024, 2025</small>
-* <small>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023, 2024, 2025</small>
-* <small>International Conference on Machine Learning (ICML), 2025</small>
-* <small>ACM International World Wide Web Conference (WWW), 2024, 2025</small>
-* <small>The AAAI Conference on Artificial Intelligence (AAAI), 2023, 2024, 2025</small>
-* <small>The International Joint Conference on Artificial Intelligence (IJCAI), 2023, 2024</small>
-* <small>ACM Annual Conference on Multimedia (MM), 2024</small>
-* <small>ACM Special Interest Group on Spatial Information (Sigspatial), 2025</small>
-* <small>ACM International Conference on Information and Knowledge Management (CIKM), 2023</small>
-* <small>SIAM International Conference on Data Mining (SDM), 2024</small>
-* <small>IEEE International Conference on Big Data (IEEE BigData), 2024</small>
-* <small>International Joint Conference on Natural Language Processing (IJCNLP), 2022, 2023</small>
-* <small>The Learning on Graphs Conference (LOG), 2022, 2023, 2024</small>
-* <small>The Pacific Rim International Conference on Artificial Intelligence (PRICAI), 2024</small>
-* <small>IEEE Transactions on Knowledge and Data Engineering (TKDE)</small>
-* <small>IEEE Transactions on Computational Social Systems (TCSS)</small>
-* <small>IEEE Internet of Things Journal (IoT)</small>
-* <small>IEEE Transactions on Big Data (TBD)</small>
-* <small>ACM Transactions on Knowledge Discovery from Data (TKDD)</small>
-* <small>ACM Transactions on Information Systems (TOIS)</small>
-* <small>ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)</small>
-* <small>Information Processing and Management</small>
-* <small>Scientific Reports</small>
+* International Conference on Learning Representations (ICLR), 2023, 2024, 2025
+* The Conference on Neural Information Processing Systems (NeurIPS), 2023, 2024, 2025
+* ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023, 2024, 2025
+* International Conference on Machine Learning (ICML), 2025
+* ACM International World Wide Web Conference (WWW), 2024, 2025
+* The AAAI Conference on Artificial Intelligence (AAAI), 2023, 2024, 2025
+* The International Joint Conference on Artificial Intelligence (IJCAI), 2023, 2024
+* ACM Annual Conference on Multimedia (MM), 2024
+* ACM Special Interest Group on Spatial Information (Sigspatial), 2025
+* ACM International Conference on Information and Knowledge Management (CIKM), 2023
+* SIAM International Conference on Data Mining (SDM), 2024
+* IEEE International Conference on Big Data (IEEE BigData), 2024
+* International Joint Conference on Natural Language Processing (IJCNLP), 2022, 2023
+* The Learning on Graphs Conference (LOG), 2022, 2023, 2024
+* The Pacific Rim International Conference on Artificial Intelligence (PRICAI), 2024
+* IEEE Transactions on Knowledge and Data Engineering (TKDE)
+* IEEE Transactions on Computational Social Systems (TCSS)
+* IEEE Internet of Things Journal (IoT)
+* IEEE Transactions on Big Data (TBD)
+* ACM Transactions on Knowledge Discovery from Data (TKDD)
+* ACM Transactions on Information Systems (TOIS)
+* ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)
+* Information Processing and Management
+* Scientific Reports
 
 **Editorial Board**
-* <small>International Journal of Intelligent Networks</small>
+* International Journal of Intelligent Networks
 
 <!-- ---
 permalink: /

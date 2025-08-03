@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Wei Fan"
 title_separator          : "-"
 name                     : &name "Wei Fan"
-description              : &description "Postdoctoral Researcher @ University of Oxford"
+description              : &description "Lecturer@UoA"
 url                      : https://weifan.site # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "weifantt.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Wei Fan"
   avatar           : "weifan2024.jpg"
-  bio              : "Postdoc at Univ. of Oxford; Ph.D. at UCF"
-  location         : "Oxford, UK"
+  bio              : "Lecturer at Univ. of Auckland; Postdoc at Univ. of Oxford; Ph.D. at UCF"
+  location         : "Auckland, NZ"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=cQ8zLJ4AAAAJ&hl=en"
-  email            : "wei.fan@wrh.ox.ac.uk"
+  email            : "weifan.oxford@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
