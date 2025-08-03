@@ -9,12 +9,16 @@ redirect_from:
 ---
 
 <p>
-I am an incoming Lecturer (equivalent to Assistant Professor in the US) at the <a href="https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/computer-science.html">University of Auckland</a>. My research focuses on data-centric AI, data mining, time series modeling, and spatial-temporal data mining, and I am also dedicated to applying these methods to solve real-world data science applications, such as healthcare, transportation, and energy. I have been working as a Postdoctoral Researcher in the Medical Sciences Division at the <a href="https://www.medsci.ox.ac.uk/">University of Oxford</a>, UK. I earned my Ph.D. degree in Computer Science from the <a href="https://www.cs.ucf.edu/">University of Central Florida</a> in 2023 and my B.E. degree from BUPT in 2020. I have interned at several industry organizations such as <a href="https://www.microsoft.com/en-us/research/group/machine-learning-research-group/research/">Microsoft Research</a>, <a href="https://research.baidu.com/">Baidu Research</a>, and <a href="https://www.bytedance.com/en/">Bytedance AI Lab</a>.
-</p>
+I am an incoming Lecturer in AI (equivalent to Assistant Professor in the US) at the <a href="https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/computer-science.html">University of Auckland</a>. University of Auckland attained a position of <p style="color: red;">#65</p> according to the [2026 QS World University Rankings](https://www.topuniversities.com/universities/university-auckland)6, and also attained a position of <p style="color: red;">#128</p> according to the [US News World Best Global Universities](https://www.usnews.com/education/best-global-universities/university-of-auckland-503786#:~:text=University%20of%20Auckland%20Rankings,about%20how%20we%20rank%20schools.).
 
 <p style="color: red;">
-I am seeking self-motivated individuals who are interested in pursuing a PhD or research master's degree at the University of Auckland.
+I am seeking self-motivated individuals who are interested in pursuing a PhD or master's degree at the University of Auckland.
 </p>
+
+My research focuses on data-centric AI, data mining, time series modeling, spatial-temporal data mining, and Agentic AI, and I am dedicated to applying these methods to solve real-world data science applications, such as healthcare, transportation, and energy. I have been working as a Postdoctoral Researcher in the Medical Sciences Division at the <a href="https://www.medsci.ox.ac.uk/">University of Oxford</a>, UK from 2024 to 2025. Before that, I earned my Ph.D. degree in Computer Science from the <a href="https://www.cs.ucf.edu/">University of Central Florida</a> in 2023 and my B.E. degree from BUPT in 2020. I have interned at several industry organizations such as <a href="https://www.microsoft.com/en-us/research/group/machine-learning-research-group/research/">Microsoft Research</a>, <a href="https://research.baidu.com/">Baidu Research</a>, and <a href="https://www.bytedance.com/en/">Bytedance AI Lab</a>.
+</p>
+
+
 
 <p>
 I have published over 40 papers in leading data mining, machine learning and interdisciplinary journals (e.g., TKDE, TKDD, Nat. Comm.) and conferences (e.g., ICLR, NeurIPS, KDD, WWW, AAAI, IJCAI). Two of my papers were selected as spotlight papers of ICLR. I have also co-organized Workshops at conferences such as <a href="https://data-centric-ai-dev.github.io/ICDM2024/">ICDM</a>, <a href="https://data-centric-ai-dev.github.io/CIKM2024/">CIKM</a>, <a href="https://geogenagent.github.io/SIGSPATIAL2025-Workshop/">SIGSpatial</a>, and <a href="https://ai-for-data-editing.github.io/KDD25-workshop/">KDD</a>. I have also served as a PC member/reviewer for conferences and journals such as ICLR, NeurIPS, KDD, WWW, IJCAI, AAAI, MM, SDM, LOG, AISTATS, PRICAI, IEEE Bigdata, IEEE TKDE, IEEE TCSS, IEEE IoT, IEEE TBD, ACM TKDD, ACM TOIS, ACM TOMM, Scientific Reports.
