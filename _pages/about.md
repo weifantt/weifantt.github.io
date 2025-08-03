@@ -36,7 +36,6 @@ redirect_from:
 
 
 ## News
-======
 
 * **June 2025:** A paper was accepted to *IEEE Transactions on Computational Social Systems*.
 * **May 2025:** Our survey and tutorial on deep frequency learning for time series were accepted to KDD 2025. [Tutorial Link](https://hh4ts.github.io/Deep_Learning_in_Frequency_Domain_Tutorial/).
@@ -49,7 +48,7 @@ redirect_from:
 
 
 ## Selected Publications
-======
+
 I have published over 40 papers in prestigious journals and conferences. For a complete list, please see my [Google Scholar](https://scholar.google.com/citations?user=cQ8zLJ4AAAAJ&hl=en).
 
 * **Deep Time Series Modeling**
@@ -68,7 +67,7 @@ I have published over 40 papers in prestigious journals and conferences. For a c
 
 
 ## Professional Services
-======
+
 **Area Chair / Senior Program Committee**
 * IEEE International Conference on Data Science and Advanced Analytics (DSAA) 2025
 
