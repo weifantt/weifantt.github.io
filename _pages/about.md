@@ -19,7 +19,7 @@ redirect_from:
 
 Luckily, I have onced worked as a research intern in Microsoft Research Asia with [Dr. Shun Zheng](https://www.microsoft.com/en-us/research/people/shunzhen/) and [Dr. Jiang Bian](https://sites.google.com/view/jiangbian). I was a research intern at Baidu Research, supervised by [Prof. Hui Xiong](http://datamining.rutgers.edu/). I also worked a research intern at Baidu Research supervised by [Prof. Hao Liu](https://raymondhliu.github.io/). Before that, I have been an algorithm intern at speech team of Bytedance AI Lab. Besides, I have once worked as a undergraduate research assisitant with [Dr. Tianyu Liu](https://tyliupku.github.io/) and [Prof. Wenfei Wu](https://wenfei-wu.github.io/).
  -->
-<span style="font-size: smaller">
+<div style="font-size: small;">
 News
 ======
 * [06/2025] One paper has been accepted by IEEE Transactions on Computational Social Systems. Congrats!
@@ -108,7 +108,7 @@ As a Program Committee member or Reviewer, I provide review comments to papers:
 
 Editoral Board member:
 * International Journal of Intelligent Networks
-</span>
+</div>
 
 <!-- 
 Services
