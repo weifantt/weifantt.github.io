@@ -11,18 +11,20 @@ redirect_from:
 <style>
   .custom-font-size p,
   .custom-font-size li,
-  .custom-font-size > blockquote {
-    font-size: 0.92em; /* Adjust this value to make text smaller or larger */
+  .custom-font-size blockquote p {
+    font-size: 0.92em; /* Adjust this value as needed */
   }
 </style>
 
 <div class="custom-font-size">
 
 <p>
-  I am an incoming Lecturer in AI (equivalent to an Assistant Professor) at the <a href="https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/computer-science.html">University of Auckland</a>. The University of Auckland is ranked <span style="color: red;">#65</span> in the <a href="https://www.topuniversities.com/universities/university-auckland">2026 QS World University Rankings</a> and <span style="color: red;">#128</span> in the <a href="https://www.usnews.com/education/best-global-universities/university-of-auckland-503786">US News Best Global Universities</a>.
+  I am an incoming Lecturer in AI (equivalent to an Assistant Professor) at the <a href="https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/computer-science.html">University of Auckland</a>. The University of Auckland is ranked <span style="color: blue;">#65</span> in the <a href="https://www.topuniversities.com/universities/university-auckland">2026 QS World University Rankings</a> and <span style="color: blue;">#128</span> in the <a href="https://www.usnews.com/education/best-global-universities/university-of-auckland-503786">US News Best Global Universities</a>.
 </p>
 
-> **Prospective Students:** I am actively looking for self-motivated PhD and Master's students to join my group. Please feel free to reach out if you are interested in my research areas.
+<blockquote>
+  <p><strong>Prospective Students:</strong> I am actively looking for self-motivated PhD and Master's students to join my group. Please feel free to reach out if you are interested in my research areas.</p>
+</blockquote>
 
 <p>
   My research interests include data-centric AI, data mining, time series modeling, spatial-temporal data mining, and Agentic AI. I am dedicated to applying these methods to solve real-world problems in domains like healthcare, transportation, and energy. From 2024 to 2025, I was a Postdoctoral Researcher in the Medical Sciences Division at the <a href="https://www.medsci.ox.ac.uk/">University of Oxford</a>. I received my Ph.D. in Computer Science from the <a href="https://www.cs.ucf.edu/">University of Central Florida</a> in 2023 and my B.E. from BUPT in 2020. I have also had the privilege of interning at <a href="https://www.microsoft.com/en-us/research/group/machine-learning-research-group/research/">Microsoft Research</a>, <a href="https://research.baidu.com/">Baidu Research</a>, and <a href="https://www.bytedance.com/en/">Bytedance AI Lab</a>.
@@ -32,16 +34,19 @@ redirect_from:
   I have published over 40 papers in top-tier data mining, machine learning, and interdisciplinary venues, including TKDE, TKDD, Nature Communications, ICLR, NeurIPS, KDD, WWW, AAAI, and IJCAI. Two of my papers have received ICLR spotlight recognition. In addition to my research, I have co-organized workshops at conferences like <a href="https://data-centric-ai-dev.github.io/ICDM2024/">ICDM</a>, <a href="https://data-centric-ai-dev.github.io/CIKM2024/">CIKM</a>, <a href="https://geogenagent.github.io/SIGSPATIAL2025-Workshop/">SIGSpatial</a>, and <a href="https://ai-for-data-editing.github.io/KDD25-workshop/">KDD</a>. I also regularly serve as a program committee member or reviewer for numerous leading conferences and journals (listed below).
 </p>
 
+---
 ## News
-* **[Jun. 2025]** Our paper on computational social systems was accepted by IEEE TCSS.
-* **[May 2025]** Our survey paper and tutorial on deep frequency learning for time series were accepted by KDD 2025. [Tutorial Link](https://hh4ts.github.io/Deep_Learning_in_Frequency_Domain_Tutorial/).
-* **[Apr. 2025]** Two papers on spatiotemporal modeling were accepted by IJCAI 2025.
-* **[Jan. 2025]** Our paper on tabular representation learning for anomaly detection was accepted by ICLR 2025.
-* **[Jan. 2025]** Our paper on medical time series classification was accepted by The Web Conference (WWW) 2025.
-* **[Jan. 2025]** Our paper on protein function modeling was published in Nature Communications.
-* **[Dec. 2024]** Three papers were accepted by AAAI 2025.
-* **[Nov. 2024]** Our paper on non-stationary time series forecasting was accepted by KDD 2025.
 
+* **June 2025:** A paper was accepted to *IEEE Transactions on Computational Social Systems*.
+* **May 2025:** Our survey and tutorial on deep frequency learning for time series were accepted to KDD 2025. [Tutorial Link](https://hh4ts.github.io/Deep_Learning_in_Frequency_Domain_Tutorial/).
+* **April 2025:** Two papers on spatiotemporal modeling were accepted to IJCAI 2025.
+* **January 2025:** A paper on tabular representation learning was accepted to ICLR 2025.
+* **January 2025:** A paper on medical time series classification was accepted to The Web Conference (WWW) 2025.
+* **January 2025:** A paper on protein function modeling was published in *Nature Communications*.
+* **December 2024:** Three papers were accepted to AAAI 2025.
+* **November 2024:** A paper on non-stationary time series forecasting was accepted to KDD 2025.
+
+---
 ## Selected Publications
 I have published over 40 papers in prestigious journals and conferences. For a complete list, please see my [Google Scholar](https://scholar.google.com/citations?user=cQ8zLJ4AAAAJ&hl=en).
 
@@ -59,6 +64,7 @@ I have published over 40 papers in prestigious journals and conferences. For a c
     * Energy Forecasting: [TKDD 24](https://arxiv.org/pdf/2401.00644)
     * Medical Signal Classification: [WWW 25](https://arxiv.org/abs/2502.04515)
 
+---
 ## Professional Services
 **Area Chair / Senior Program Committee**
 * IEEE International Conference on Data Science and Advanced Analytics (DSAA) 2025
