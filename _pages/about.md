@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 <p>
-I am an incoming Lecturer in AI (equivalent to Assistant Professor in the US) at the <a href="https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/computer-science.html">University of Auckland</a>. University of Auckland attained a position of <p style="color: red;">#65</p> according to the [2026 QS World University Rankings](https://www.topuniversities.com/universities/university-auckland)6, and also attained a position of <p style="color: red;">#128</p> according to the [US News World Best Global Universities](https://www.usnews.com/education/best-global-universities/university-of-auckland-503786#:~:text=University%20of%20Auckland%20Rankings,about%20how%20we%20rank%20schools.).
+  I am an incoming Lecturer in AI (equivalent to Assistant Professor in the US) at the <a href="https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/computer-science.html">University of Auckland</a>. The University of Auckland attained a position of <span style="color: red;">#65</span> according to the <a href="https://www.topuniversities.com/universities/university-auckland">2026 QS World University Rankings</a>, and also attained a position of <span style="color: red;">#128</span> according to the <a href="https://www.usnews.com/education/best-global-universities/university-of-auckland-503786">US News World Best Global Universities</a>.
+</p>
 
 <p style="color: red;">
 I am seeking self-motivated individuals who are interested in pursuing a PhD or master's degree at the University of Auckland.
