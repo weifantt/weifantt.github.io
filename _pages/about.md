@@ -23,7 +23,7 @@ redirect_from:
 </p>
 
 <blockquote>
-  <p><strong>Prospective Students:</strong> I am actively looking for self-motivated PhD and Master's students to join my group. Please feel free to reach out if you are interested in my research areas.</p>
+  <p style="color: red;"><strong>Prospective Students:</strong> I am actively looking for self-motivated PhD and Master's students to join my group. Please feel free to reach out if you are interested in my research areas.</p>
 </blockquote>
 
 <p>
@@ -35,16 +35,15 @@ redirect_from:
 </p>
 
 
-<h2>News</h2>
 <ul>
-    <li><strong>June 2025:</strong> A paper was accepted to <em>IEEE Transactions on Computational Social Systems</em>.</li>
-    <li><strong>May 2025:</strong> Our survey and tutorial on deep frequency learning for time series were accepted to KDD 2025. <a href="https://hh4ts.github.io/Deep_Learning_in_Frequency_Domain_Tutorial/">[Tutorial Link]</a>.</li>
+    <li><strong>June 2025:</strong> One paper was accepted to <em>IEEE Transactions on Computational Social Systems</em>.</li>
+    <li><strong>May 2025:</strong> Our survey and tutorial on deep frequency learning for time series were accepted to KDD 2025. <a href="https://hh4ts.github.io/Deep_Learning_in_Frequency_Domain_Tutorial/">Deep Learning in Frequency Domain</a>.</li>
     <li><strong>April 2025:</strong> Two papers on spatiotemporal modeling were accepted to IJCAI 2025.</li>
-    <li><strong>January 2025:</strong> A paper on tabular representation learning was accepted to ICLR 2025.</li>
-    <li><strong>January 2025:</strong> A paper on medical time series classification was accepted to The Web Conference (WWW) 2025.</li>
-    <li><strong>January 2025:</strong> A paper on protein function modeling was published in <em>Nature Communications</em>.</li>
+    <li><strong>January 2025:</strong> One paper on tabular representation learning was accepted to ICLR 2025.</li>
+    <li><strong>January 2025:</strong> One paper on medical time series classification was accepted to The Web Conference (WWW) 2025.</li>
+    <li><strong>January 2025:</strong> One paper on protein function modeling was published in <em>Nature Communications</em>.</li>
     <li><strong>December 2024:</strong> Three papers were accepted to AAAI 2025.</li>
-    <li><strong>November 2024:</strong> A paper on non-stationary time series forecasting was accepted to KDD 2025.</li>
+    <li><strong>November 2024:</strong> One paper on non-stationary time series forecasting was accepted to KDD 2025.</li>
 </ul>
 
 <hr>
@@ -95,7 +94,7 @@ redirect_from:
 
 <p><strong>Program Committee Member / Reviewer</strong></p>
 <ul>
-    <li><strong>Conferences:</strong> ICLR, NeurIPS, KDD, ICML, WWW, AAAI, IJCAI, MM, SIGSPATIAL, CIKM, SDM, IEEE BigData, IJCNLP, LoG, PRICAI (2022-Present)</li>
+    <li><strong>Conferences:</strong> ICLR, NeurIPS, KDD, ICML, WWW, AAAI, IJCAI, MM, SIGSPATIAL, CIKM, SDM, IEEE BigData, IJCNLP, LoG, PRICAI</li>
     <li><strong>Journals:</strong> IEEE TKDE, IEEE TCSS, IEEE TBD, IEEE IoTJ, ACM TKDD, ACM TOIS, ACM TOMM, Information Processing & Management, Scientific Reports</li>
 </ul>
 
