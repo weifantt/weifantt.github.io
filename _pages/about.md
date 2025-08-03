@@ -35,48 +35,74 @@ redirect_from:
 </p>
 
 
-## News
+<h2>News</h2>
+<ul>
+    <li><strong>June 2025:</strong> A paper was accepted to <em>IEEE Transactions on Computational Social Systems</em>.</li>
+    <li><strong>May 2025:</strong> Our survey and tutorial on deep frequency learning for time series were accepted to KDD 2025. <a href="https://hh4ts.github.io/Deep_Learning_in_Frequency_Domain_Tutorial/">[Tutorial Link]</a>.</li>
+    <li><strong>April 2025:</strong> Two papers on spatiotemporal modeling were accepted to IJCAI 2025.</li>
+    <li><strong>January 2025:</strong> A paper on tabular representation learning was accepted to ICLR 2025.</li>
+    <li><strong>January 2025:</strong> A paper on medical time series classification was accepted to The Web Conference (WWW) 2025.</li>
+    <li><strong>January 2025:</strong> A paper on protein function modeling was published in <em>Nature Communications</em>.</li>
+    <li><strong>December 2024:</strong> Three papers were accepted to AAAI 2025.</li>
+    <li><strong>November 2024:</strong> A paper on non-stationary time series forecasting was accepted to KDD 2025.</li>
+</ul>
 
-* **June 2025:** A paper was accepted to *IEEE Transactions on Computational Social Systems*.
-* **May 2025:** Our survey and tutorial on deep frequency learning for time series were accepted to KDD 2025. [Tutorial Link](https://hh4ts.github.io/Deep_Learning_in_Frequency_Domain_Tutorial/).
-* **April 2025:** Two papers on spatiotemporal modeling were accepted to IJCAI 2025.
-* **January 2025:** A paper on tabular representation learning was accepted to ICLR 2025.
-* **January 2025:** A paper on medical time series classification was accepted to The Web Conference (WWW) 2025.
-* **January 2025:** A paper on protein function modeling was published in *Nature Communications*.
-* **December 2024:** Three papers were accepted to AAAI 2025.
-* **November 2024:** A paper on non-stationary time series forecasting was accepted to KDD 2025.
+<hr>
 
+<h2>Selected Publications</h2>
+<p>
+    I have published over 40 papers in prestigious journals and conferences. For a complete list, please see my <a href="https://scholar.google.com/citations?user=cQ8zLJ4AAAAJ&hl=en">Google Scholar</a>.
+</p>
+<ul>
+    <li>
+        <strong>Deep Time Series Modeling</strong>
+        <ul>
+            <li>The Data Learning Perspective: <a href="https://arxiv.org/pdf/2203.07681">ICLR 22</a>, <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/f1d16af76939f476b5f040fd1398c0a3-Paper-Conference.pdf">NeurIPS 23</a>, <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/dc1e32dd3eb381dbc71482f6a96cbf86-Paper-Conference.pdf">NeurIPS 23</a>, <a href="https://arxiv.org/pdf/2411.01623">NeurIPS 24</a></li>
+            <li>The Data Manipulating Perspective: <a href="https://arxiv.org/abs/2302.14829">AAAI 23</a>, <a href="https://arxiv.org/pdf/2407.00502">IJCAI 24</a>, <a href="https://www.ijcai.org/proceedings/2024/0275.pdf">IJCAI 24</a>, <a href="https://arxiv.org/pdf/2401.16777">KDD 25</a></li>
+        </ul>
+    </li>
+    <li>
+        <strong>Automated Feature Engineering</strong>
+        <ul>
+            <li>Automated Feature Selection: <a href="https://arxiv.org/pdf/2008.12001">ICDM 20</a>, <a href="https://arxiv.org/pdf/2010.02506">TKDE 21</a>, <a href="https://epubs.siam.org/doi/pdf/10.1137/1.9781611976700.39">SDM 21</a></li>
+            <li>Automated Instance and Feature Selection: <a href="https://arxiv.org/pdf/2205.07867">IJCAI 22</a></li>
+        </ul>
+    </li>
+    <li>
+        <strong>Deep Representation Learning</strong>
+        <ul>
+            <li>Tabular Representation Learning: <a href="https://arxiv.org/pdf/2407.05364">ICLR 24</a></li>
+            <li>Graph Representation Learning: <a href="https://drive.google.com/file/d/1PmEooa7_yvpahb7aEsv1xIC3G4ZgwUHp/view">ICDM 21</a>, <a href="https://arxiv.org/pdf/2204.13221">EMNLP 22</a></li>
+        </ul>
+    </li>
+    <li>
+        <strong>Spatial-temporal Data Mining and Interdisciplinary Applications</strong>
+        <ul>
+            <li>Urban Computing and Smart City Applications: <a href="https://ieeexplore.ieee.org/abstract/document/10415754/">ICDM 23</a>, <a href="https://epubs.siam.org/doi/pdf/10.1137/1.9781611978032.42">SDM 24</a>, <a href="https://www.ijcai.org/proceedings/2024/0228.pdf">IJCAI 24</a></li>
+            <li>Energy Forecasting: <a href="https://arxiv.org/pdf/2401.00644">TKDD 24</a></li>
+            <li>Medical Signal Classification: <a href="https://arxiv.org/abs/2502.04515">WWW 25</a></li>
+        </ul>
+    </li>
+</ul>
 
-## Selected Publications
+<hr>
 
-I have published over 40 papers in prestigious journals and conferences. For a complete list, please see my [Google Scholar](https://scholar.google.com/citations?user=cQ8zLJ4AAAAJ&hl=en).
+<h2>Professional Services</h2>
+<p><strong>Area Chair / Senior Program Committee</strong></p>
+<ul>
+    <li>IEEE International Conference on Data Science and Advanced Analytics (DSAA) 2025</li>
+</ul>
 
-* **Deep Time Series Modeling**
-    * The Data Learning Perspective: [ICLR 22](https://arxiv.org/pdf/2203.07681), [NeurIPS 23](https://proceedings.neurips.cc/paper_files/paper/2023/file/f1d16af76939f476b5f040fd1398c0a3-Paper-Conference.pdf), [NeurIPS 23](https://proceedings.neurips.cc/paper_files/paper/2023/file/dc1e32dd3eb381dbc71482f6a96cbf86-Paper-Conference.pdf), [NeurIPS 24](https://arxiv.org/pdf/2411.01623)
-    * The Data Manipulating Perspective: [AAAI 23](https://arxiv.org/abs/2302.14829), [IJCAI 24](https://arxiv.org/pdf/2407.00502), [IJCAI 24](https://www.ijcai.org/proceedings/2024/0275.pdf), [KDD 25](https://arxiv.org/pdf/2401.16777)
-* **Automated Feature Engineering**
-    * Automated Feature Selection: [ICDM 20](https://arxiv.org/pdf/2008.12001), [TKDE 21](https://arxiv.org/pdf/2010.02506), [SDM 21](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976700.39)
-    * Automated Instance and Feature Selection: [IJCAI 22](https://arxiv.org/pdf/2205.07867)
-* **Deep Representation Learning**
-    * Tabular Representation Learning: [ICLR 24](https://arxiv.org/pdf/2407.05364)
-    * Graph Representation Learning: [ICDM 21](https://drive.google.com/file/d/1PmEooa7_yvpahb7aEsv1xIC3G4ZgwUHp/view), [EMNLP 22](https://arxiv.org/pdf/2204.13221)
-* **Spatial-temporal Data Mining and Interdisciplinary Applications**
-    * Urban Computing and Smart City Applications: [ICDM 23](https://ieeexplore.ieee.org/abstract/document/10415754/), [SDM 24](https://epubs.siam.org/doi/pdf/10.1137/1.9781611978032.42), [IJCAI 24](https://www.ijcai.org/proceedings/2024/0228.pdf)
-    * Energy Forecasting: [TKDD 24](https://arxiv.org/pdf/2401.00644)
-    * Medical Signal Classification: [WWW 25](https://arxiv.org/abs/2502.04515)
+<p><strong>Program Committee Member / Reviewer</strong></p>
+<ul>
+    <li><strong>Conferences:</strong> ICLR, NeurIPS, KDD, ICML, WWW, AAAI, IJCAI, MM, SIGSPATIAL, CIKM, SDM, IEEE BigData, IJCNLP, LoG, PRICAI (2022-Present)</li>
+    <li><strong>Journals:</strong> IEEE TKDE, IEEE TCSS, IEEE TBD, IEEE IoTJ, ACM TKDD, ACM TOIS, ACM TOMM, Information Processing & Management, Scientific Reports</li>
+</ul>
 
-
-## Professional Services
-
-**Area Chair / Senior Program Committee**
-* IEEE International Conference on Data Science and Advanced Analytics (DSAA) 2025
-
-**Program Committee Member / Reviewer**
-* **Conferences:** ICLR, NeurIPS, KDD, ICML, WWW, AAAI, IJCAI, MM, SIGSPATIAL, CIKM, SDM, IEEE BigData, IJCNLP, LoG, PRICAI (2022-Present)
-* **Journals:** IEEE TKDE, IEEE TCSS, IEEE TBD, IEEE IoTJ, ACM TKDD, ACM TOIS, ACM TOMM, Information Processing & Management, Scientific Reports
-
-**Editorial Board**
-* International Journal of Intelligent Networks
+<p><strong>Editorial Board</strong></p>
+<ul>
+    <li>International Journal of Intelligent Networks</li>
+</ul>
 
 </div>
 
