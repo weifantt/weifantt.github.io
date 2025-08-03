@@ -8,35 +8,42 @@ redirect_from:
   - /about.html
 ---
 
-<p>
-  I am an incoming Lecturer in AI (equivalent to Assistant Professor in the US) at the <a href="https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/computer-science.html">University of Auckland</a>. The University of Auckland attained a position of <span style="color: red;">#65</span> according to the <a href="https://www.topuniversities.com/universities/university-auckland">2026 QS World University Rankings</a>, and also attained a position of <span style="color: red;">#128</span> according to the <a href="https://www.usnews.com/education/best-global-universities/university-of-auckland-503786">US News World Best Global Universities</a>.
-</p>
+<style>
+  .custom-font-size p,
+  .custom-font-size li,
+  .custom-font-size > blockquote {
+    font-size: 0.92em; /* Adjust this value to make text smaller or larger */
+  }
+</style>
 
-<p style="color: red;">
-I am seeking self-motivated individuals who are interested in pursuing a PhD or master's degree at the University of Auckland.
-</p>
-
-My research focuses on data-centric AI, data mining, time series modeling, spatial-temporal data mining, and Agentic AI, and I am dedicated to applying these methods to solve real-world data science applications, such as healthcare, transportation, and energy. I have been working as a Postdoctoral Researcher in the Medical Sciences Division at the <a href="https://www.medsci.ox.ac.uk/">University of Oxford</a>, UK from 2024 to 2025. Before that, I earned my Ph.D. degree in Computer Science from the <a href="https://www.cs.ucf.edu/">University of Central Florida</a> in 2023 and my B.E. degree from BUPT in 2020. I have interned at several industry organizations such as <a href="https://www.microsoft.com/en-us/research/group/machine-learning-research-group/research/">Microsoft Research</a>, <a href="https://research.baidu.com/">Baidu Research</a>, and <a href="https://www.bytedance.com/en/">Bytedance AI Lab</a>.
-</p>
-
-
+<div class="custom-font-size">
 
 <p>
-I have published over 40 papers in leading data mining, machine learning and interdisciplinary journals (e.g., TKDE, TKDD, Nat. Comm.) and conferences (e.g., ICLR, NeurIPS, KDD, WWW, AAAI, IJCAI). Two of my papers were selected as spotlight papers of ICLR. I have also co-organized Workshops at conferences such as <a href="https://data-centric-ai-dev.github.io/ICDM2024/">ICDM</a>, <a href="https://data-centric-ai-dev.github.io/CIKM2024/">CIKM</a>, <a href="https://geogenagent.github.io/SIGSPATIAL2025-Workshop/">SIGSpatial</a>, and <a href="https://ai-for-data-editing.github.io/KDD25-workshop/">KDD</a>. I have also served as a PC member/reviewer for conferences and journals such as ICLR, NeurIPS, KDD, WWW, IJCAI, AAAI, MM, SDM, LOG, AISTATS, PRICAI, IEEE Bigdata, IEEE TKDE, IEEE TCSS, IEEE IoT, IEEE TBD, ACM TKDD, ACM TOIS, ACM TOMM, Scientific Reports.
+  I am an incoming Lecturer in AI (equivalent to an Assistant Professor) at the <a href="https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/computer-science.html">University of Auckland</a>. The University of Auckland is ranked <span style="color: red;">#65</span> in the <a href="https://www.topuniversities.com/universities/university-auckland">2026 QS World University Rankings</a> and <span style="color: red;">#128</span> in the <a href="https://www.usnews.com/education/best-global-universities/university-of-auckland-503786">US News Best Global Universities</a>.
+</p>
+
+> **Prospective Students:** I am actively looking for self-motivated PhD and Master's students to join my group. Please feel free to reach out if you are interested in my research areas.
+
+<p>
+  My research interests include data-centric AI, data mining, time series modeling, spatial-temporal data mining, and Agentic AI. I am dedicated to applying these methods to solve real-world problems in domains like healthcare, transportation, and energy. From 2024 to 2025, I was a Postdoctoral Researcher in the Medical Sciences Division at the <a href="https://www.medsci.ox.ac.uk/">University of Oxford</a>. I received my Ph.D. in Computer Science from the <a href="https://www.cs.ucf.edu/">University of Central Florida</a> in 2023 and my B.E. from BUPT in 2020. I have also had the privilege of interning at <a href="https://www.microsoft.com/en-us/research/group/machine-learning-research-group/research/">Microsoft Research</a>, <a href="https://research.baidu.com/">Baidu Research</a>, and <a href="https://www.bytedance.com/en/">Bytedance AI Lab</a>.
+</p>
+
+<p>
+  I have published over 40 papers in top-tier data mining, machine learning, and interdisciplinary venues, including TKDE, TKDD, Nature Communications, ICLR, NeurIPS, KDD, WWW, AAAI, and IJCAI. Two of my papers have received ICLR spotlight recognition. In addition to my research, I have co-organized workshops at conferences like <a href="https://data-centric-ai-dev.github.io/ICDM2024/">ICDM</a>, <a href="https://data-centric-ai-dev.github.io/CIKM2024/">CIKM</a>, <a href="https://geogenagent.github.io/SIGSPATIAL2025-Workshop/">SIGSpatial</a>, and <a href="https://ai-for-data-editing.github.io/KDD25-workshop/">KDD</a>. I also regularly serve as a program committee member or reviewer for numerous leading conferences and journals (listed below).
 </p>
 
 ## News
-* [06/2025] One paper has been accepted by IEEE Transactions on Computational Social Systems. Congrats!
-* [05/2025] One survey paper and a tutorial on deep frequency learning for time series has been accepted by KDD 2025. Please refer to [Deep Learning in Frequency Domain](https://hh4ts.github.io/Deep_Learning_in_Frequency_Domain_Tutorial/).
-* [04/2025] Two papers on spatiotemporal modeling has been accepted by IJCAI 2025. Congrats to all my coauthors!
-* [01/2025] One paper on tabular representation learning for anomaly detection has been accepted by ICLR 2025. Congrats to all my coauthors!
-* [01/2025] One paper on medical time series classification (e.g., EEG, ECG) has been accepted by the Web Conference (WWW) 2025. Congrats to me and my coauthors!
-* [01/2025] One paper on protein function modeling has been published in Nature Communications. Congrats to my coauthors!
-* [12/2024] Three papers on time series modeling, brain analysis, and molecule generation have been accepted by AAAI 2025. Congrats to all my coauthors!
-* [11/2024] One paper on distribution shift in time series and non-stationary forecasting has been accepted by KDD 2025 August Track. Congrats to me and thanks to my coauthors!
+* **[Jun. 2025]** Our paper on computational social systems was accepted by IEEE TCSS.
+* **[May 2025]** Our survey paper and tutorial on deep frequency learning for time series were accepted by KDD 2025. [Tutorial Link](https://hh4ts.github.io/Deep_Learning_in_Frequency_Domain_Tutorial/).
+* **[Apr. 2025]** Two papers on spatiotemporal modeling were accepted by IJCAI 2025.
+* **[Jan. 2025]** Our paper on tabular representation learning for anomaly detection was accepted by ICLR 2025.
+* **[Jan. 2025]** Our paper on medical time series classification was accepted by The Web Conference (WWW) 2025.
+* **[Jan. 2025]** Our paper on protein function modeling was published in Nature Communications.
+* **[Dec. 2024]** Three papers were accepted by AAAI 2025.
+* **[Nov. 2024]** Our paper on non-stationary time series forecasting was accepted by KDD 2025.
 
-## Publication
-I have published 30+ papers in prestigious journals and conferences, including data mining and machine learning venues (e.g., TKDE, TKDD, ICLR, NeurIPS, ICML, AAAI, IJCAI, ICDM, SDM, EMNLP, etc). Among them, I got two spotlight papers in ICLR 2022 and ICLR 2024 respectively. More details can be found at my [Google Scholar](https://scholar.google.com/citations?user=cQ8zLJ4AAAAJ&hl=en). The representative papers can be categorized as follows:
+## Selected Publications
+I have published over 40 papers in prestigious journals and conferences. For a complete list, please see my [Google Scholar](https://scholar.google.com/citations?user=cQ8zLJ4AAAAJ&hl=en).
 
 * **Deep Time Series Modeling**
     * The Data Learning Perspective: [ICLR 22](https://arxiv.org/pdf/2203.07681), [NeurIPS 23](https://proceedings.neurips.cc/paper_files/paper/2023/file/f1d16af76939f476b5f040fd1398c0a3-Paper-Conference.pdf), [NeurIPS 23](https://proceedings.neurips.cc/paper_files/paper/2023/file/dc1e32dd3eb381dbc71482f6a96cbf86-Paper-Conference.pdf), [NeurIPS 24](https://arxiv.org/pdf/2411.01623)
@@ -52,38 +59,18 @@ I have published 30+ papers in prestigious journals and conferences, including d
     * Energy Forecasting: [TKDD 24](https://arxiv.org/pdf/2401.00644)
     * Medical Signal Classification: [WWW 25](https://arxiv.org/abs/2502.04515)
 
-## Services
+## Professional Services
 **Area Chair / Senior Program Committee**
-* IEEE International Conference on Data Science and Advanced Analytics (DSAA), 2025
+* IEEE International Conference on Data Science and Advanced Analytics (DSAA) 2025
 
-**Program Committee / Reviewer**
-* International Conference on Learning Representations (ICLR), 2023, 2024, 2025
-* The Conference on Neural Information Processing Systems (NeurIPS), 2023, 2024, 2025
-* ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023, 2024, 2025
-* International Conference on Machine Learning (ICML), 2025
-* ACM International World Wide Web Conference (WWW), 2024, 2025
-* The AAAI Conference on Artificial Intelligence (AAAI), 2023, 2024, 2025
-* The International Joint Conference on Artificial Intelligence (IJCAI), 2023, 2024
-* ACM Annual Conference on Multimedia (MM), 2024
-* ACM Special Interest Group on Spatial Information (Sigspatial), 2025
-* ACM International Conference on Information and Knowledge Management (CIKM), 2023
-* SIAM International Conference on Data Mining (SDM), 2024
-* IEEE International Conference on Big Data (IEEE BigData), 2024
-* International Joint Conference on Natural Language Processing (IJCNLP), 2022, 2023
-* The Learning on Graphs Conference (LOG), 2022, 2023, 2024
-* The Pacific Rim International Conference on Artificial Intelligence (PRICAI), 2024
-* IEEE Transactions on Knowledge and Data Engineering (TKDE)
-* IEEE Transactions on Computational Social Systems (TCSS)
-* IEEE Internet of Things Journal (IoT)
-* IEEE Transactions on Big Data (TBD)
-* ACM Transactions on Knowledge Discovery from Data (TKDD)
-* ACM Transactions on Information Systems (TOIS)
-* ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)
-* Information Processing and Management
-* Scientific Reports
+**Program Committee Member / Reviewer**
+* **Conferences:** ICLR, NeurIPS, KDD, ICML, WWW, AAAI, IJCAI, MM, SIGSPATIAL, CIKM, SDM, IEEE BigData, IJCNLP, LoG, PRICAI (2022-Present)
+* **Journals:** IEEE TKDE, IEEE TCSS, IEEE TBD, IEEE IoTJ, ACM TKDD, ACM TOIS, ACM TOMM, Information Processing & Management, Scientific Reports
 
 **Editorial Board**
 * International Journal of Intelligent Networks
+
+</div>
 
 <!-- ---
 permalink: /
