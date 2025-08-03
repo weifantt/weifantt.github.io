@@ -34,8 +34,9 @@ redirect_from:
   I have published over 40 papers in top-tier data mining, machine learning, and interdisciplinary venues, including TKDE, TKDD, Nature Communications, ICLR, NeurIPS, KDD, WWW, AAAI, and IJCAI. Two of my papers have received ICLR spotlight recognition. In addition to my research, I have co-organized workshops at conferences like <a href="https://data-centric-ai-dev.github.io/ICDM2024/">ICDM</a>, <a href="https://data-centric-ai-dev.github.io/CIKM2024/">CIKM</a>, <a href="https://geogenagent.github.io/SIGSPATIAL2025-Workshop/">SIGSpatial</a>, and <a href="https://ai-for-data-editing.github.io/KDD25-workshop/">KDD</a>. I also regularly serve as a program committee member or reviewer for numerous leading conferences and journals (listed below).
 </p>
 
----
+
 ## News
+======
 
 * **June 2025:** A paper was accepted to *IEEE Transactions on Computational Social Systems*.
 * **May 2025:** Our survey and tutorial on deep frequency learning for time series were accepted to KDD 2025. [Tutorial Link](https://hh4ts.github.io/Deep_Learning_in_Frequency_Domain_Tutorial/).
@@ -46,8 +47,9 @@ redirect_from:
 * **December 2024:** Three papers were accepted to AAAI 2025.
 * **November 2024:** A paper on non-stationary time series forecasting was accepted to KDD 2025.
 
----
+
 ## Selected Publications
+======
 I have published over 40 papers in prestigious journals and conferences. For a complete list, please see my [Google Scholar](https://scholar.google.com/citations?user=cQ8zLJ4AAAAJ&hl=en).
 
 * **Deep Time Series Modeling**
@@ -64,8 +66,9 @@ I have published over 40 papers in prestigious journals and conferences. For a c
     * Energy Forecasting: [TKDD 24](https://arxiv.org/pdf/2401.00644)
     * Medical Signal Classification: [WWW 25](https://arxiv.org/abs/2502.04515)
 
----
+
 ## Professional Services
+======
 **Area Chair / Senior Program Committee**
 * IEEE International Conference on Data Science and Advanced Analytics (DSAA) 2025
 
