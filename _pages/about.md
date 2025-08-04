@@ -34,7 +34,7 @@ redirect_from:
   I have published over 40 papers in top-tier data mining, machine learning, and interdisciplinary venues, including TKDE, TKDD, Nature Communications, ICLR, NeurIPS, KDD, WWW, AAAI, and IJCAI. Two of my papers have received ICLR spotlight recognition. In addition to my research, I have co-organized workshops at conferences like <a href="https://data-centric-ai-dev.github.io/ICDM2024/">ICDM</a>, <a href="https://data-centric-ai-dev.github.io/CIKM2024/">CIKM</a>, <a href="https://geogenagent.github.io/SIGSPATIAL2025-Workshop/">SIGSpatial</a>, and <a href="https://ai-for-data-editing.github.io/KDD25-workshop/">KDD</a>. I also regularly serve as a program committee member or reviewer for numerous leading conferences and journals (listed below).
 </p>
 
-
+<h2>News</h2>
 <ul>
     <li><strong>June 2025:</strong> One paper was accepted to <em>IEEE Transactions on Computational Social Systems</em>.</li>
     <li><strong>May 2025:</strong> Our survey and tutorial on deep frequency learning for time series were accepted to KDD 2025. <a href="https://hh4ts.github.io/Deep_Learning_in_Frequency_Domain_Tutorial/">Deep Learning in Frequency Domain</a>.</li>
