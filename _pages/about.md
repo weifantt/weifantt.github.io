@@ -23,13 +23,11 @@ redirect_from:
 </p>
 
 <blockquote>
-  <p style="color: red;"><strong>Prospective Students:</strong> I am actively looking for self-motivated PhD and Master's students to join my group. Please feel free to reach out if you are interested in my research areas.</p>
-
-  <strong>Research Interests:</strong> My current research interests mainly includes:
+  <p style="color: red;"><strong>Prospective Students:</strong> I am actively looking for self-motivated PhD and Master's students to join my group. Please feel free to reach out if you are interested in my research areas, which mainly includes:</p>
   <ul>
     <li><strong>Deep Time Series Modeling:</strong> Investigating deep learning for general time series analysis (including forecasting, classification, etc) and to solve domain-specific time series challenges in different settings (such as healthcare, energy, etc).</li>
     <li><strong>Tabular Machine Learning:</strong> Using data-centric AI to model structured tabular data, extract key knowledge, or edit data itself to enhance the tabular tasks.</li>
-    <li><strong>Healthcare Informatics:</strong> Understanding the machnisms of chronic diseases (such as main cardiovascular diseases, depression, diabetes, heart failure, etc) and aging machnisms (including phenotypic, genetic, cellular machnisms) that affect people’s quality of life.</li>
+    <li><strong>Healthcare Informatics:</strong> Understanding the machnisms of chronic diseases (such as cardiovascular diseases, mental illness, etc), and aging-related diseases to improve health outcomes.</li>
     <li><strong>Agentic AI:</strong> Building interesting LLM-based agents to automate and accelerate the scientific discovery or to solve challenges in real-world applications.</li>
 </ul>
 </blockquote>
