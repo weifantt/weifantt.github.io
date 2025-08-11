@@ -25,11 +25,11 @@ redirect_from:
 <blockquote>
   <p style="color: red;"><strong>Prospective Students:</strong> I am actively looking for self-motivated PhD and Master's students to join my group. Please feel free to reach out if you are interested in my research areas.</p>
 
-  Research Interests: My general research interests include data-centric AI, data mining, time series modeling, spatial-temporal data mining, and Agentic AI. I am dedicated to applying these methods to solve real-world problems in domains like healthcare, transportation, and energy. Specifically, they include:
+  <strong>Research Interests:</strong> My current research interests mainly includes:
   <ul>
     <li><strong>Deep Time Series Modeling:</strong> Investigating deep learning for general time series analysis (including forecasting, classification, etc) and to solve domain-specific time series challenges in different settings (such as healthcare, energy, etc).</li>
     <li><strong>Tabular Machine Learning:</strong> Using data-centric AI to model structured tabular data, extract key knowledge, or edit data itself to enhance the tabular tasks.</li>
-    <li><strong>Healthcare Informatics:</strong> Understanding the machnisms of chronic diseases (such as main cardiovascular diseases, depression, diabetes, heart failure, etc) that affect people’s quality of life and aging machnisms (including phenotypic, genetic, cellular machnisms) for better management practices and interventions to improve health outcomes.</li>
+    <li><strong>Healthcare Informatics:</strong> Understanding the machnisms of chronic diseases (such as main cardiovascular diseases, depression, diabetes, heart failure, etc) and aging machnisms (including phenotypic, genetic, cellular machnisms) that affect people’s quality of life.</li>
     <li><strong>Agentic AI:</strong> Building interesting LLM-based agents to automate and accelerate the scientific discovery or to solve challenges in real-world applications.</li>
 </ul>
 </blockquote>
@@ -39,7 +39,7 @@ redirect_from:
 </p> -->
 
 <p>
-  I have published over 40 papers in top-tier data mining, machine learning, and interdisciplinary venues, including TKDE, TKDD, Nature Communications, ICLR, NeurIPS, KDD, WWW, AAAI, and IJCAI. Two of my papers have received ICLR spotlight recognition. In addition to my research, I have co-organized workshops at conferences like <a href="https://data-centric-ai-dev.github.io/ICDM2024/">ICDM</a>, <a href="https://data-centric-ai-dev.github.io/CIKM2024/">CIKM</a>, <a href="https://geogenagent.github.io/SIGSPATIAL2025-Workshop/">SIGSpatial</a>, and <a href="https://ai-for-data-editing.github.io/KDD25-workshop/">KDD</a>. I also regularly serve as a program committee member or reviewer for numerous leading conferences and journals (listed below).
+My general research interests include data-centric AI, data mining, time series modeling, spatial-temporal data mining, and Agentic AI. I am dedicated to applying these methods to solve real-world problems in domains like healthcare, transportation, and energy. I have published over 40 papers in top-tier data mining, machine learning, and interdisciplinary venues, including TKDE, TKDD, Nature Communications, ICLR, NeurIPS, KDD, WWW, AAAI, and IJCAI. Two of my papers have received ICLR spotlight recognition. In addition to my research, I have co-organized workshops at conferences like <a href="https://data-centric-ai-dev.github.io/ICDM2024/">ICDM</a>, <a href="https://data-centric-ai-dev.github.io/CIKM2024/">CIKM</a>, <a href="https://geogenagent.github.io/SIGSPATIAL2025-Workshop/">SIGSpatial</a>, and <a href="https://ai-for-data-editing.github.io/KDD25-workshop/">KDD</a>. I also regularly serve as a program committee member or reviewer for numerous leading conferences and journals (listed below).
 </p>
 
 <h2>News</h2>
