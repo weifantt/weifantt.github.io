@@ -19,16 +19,24 @@ redirect_from:
 <div class="custom-font-size">
 
 <p>
-  I am an incoming Lecturer in AI (equivalent to an Assistant Professor) at the <a href="https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/computer-science.html">University of Auckland</a>. The University of Auckland is ranked <span style="color: blue;">#65</span> in the <a href="https://www.topuniversities.com/universities/university-auckland">2026 QS World University Rankings</a> and <span style="color: blue;">#128</span> in the <a href="https://www.usnews.com/education/best-global-universities/university-of-auckland-503786">US News Best Global Universities</a>.
+  I am an incoming Lecturer in AI (equivalent to an Assistant Professor) at the <a href="https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/computer-science.html">University of Auckland</a>. The University of Auckland is ranked <span style="color: blue;">#65</span> in the <a href="https://www.topuniversities.com/universities/university-auckland">2026 QS World University Rankings</a> and <span style="color: blue;">#128</span> in the <a href="https://www.usnews.com/education/best-global-universities/university-of-auckland-503786">US News Best Global Universities</a>. Before it, I was a Postdoctoral Researcher in the Medical Sciences Division at the <a href="https://www.medsci.ox.ac.uk/">University of Oxford</a> from 2024 to 2025. I received my Ph.D. in Computer Science from the <a href="https://www.cs.ucf.edu/">University of Central Florida</a> in 2023 and my B.E. from BUPT in 2020. I have also had the privilege of interning at <a href="https://www.microsoft.com/en-us/research/group/machine-learning-research-group/research/">Microsoft Research</a>, <a href="https://research.baidu.com/">Baidu Research</a>, and <a href="https://www.bytedance.com/en/">Bytedance AI Lab</a>.
 </p>
 
 <blockquote>
   <p style="color: red;"><strong>Prospective Students:</strong> I am actively looking for self-motivated PhD and Master's students to join my group. Please feel free to reach out if you are interested in my research areas.</p>
+
+  Research Interests: My general research interests include data-centric AI, data mining, time series modeling, spatial-temporal data mining, and Agentic AI. I am dedicated to applying these methods to solve real-world problems in domains like healthcare, transportation, and energy. Specifically, they include:
+  <ul>
+    <li><strong>Deep Time Series Modeling:</strong> Investigating deep learning for general time series analysis (including forecasting, classification, etc) and to solve domain-specific time series challenges in different settings (such as healthcare, energy, etc).</li>
+    <li><strong>Tabular Machine Learning:</strong> Using data-centric AI to model structured tabular data, extract key knowledge, or edit data itself to enhance the tabular tasks.</li>
+    <li><strong>Healthcare Informatics:</strong> Understanding the machnisms of chronic diseases (such as main cardiovascular diseases, depression, diabetes, heart failure, etc) that affect people’s quality of life and aging machnisms (including phenotypic, genetic, cellular machnisms) for better management practices and interventions to improve health outcomes.</li>
+    <li><strong>Agentic AI:</strong> Building interesting LLM-based agents to automate and accelerate the scientific discovery or to solve challenges in real-world applications.</li>
+</ul>
 </blockquote>
 
-<p>
-  My research interests include data-centric AI, data mining, time series modeling, spatial-temporal data mining, and Agentic AI. I am dedicated to applying these methods to solve real-world problems in domains like healthcare, transportation, and energy. From 2024 to 2025, I was a Postdoctoral Researcher in the Medical Sciences Division at the <a href="https://www.medsci.ox.ac.uk/">University of Oxford</a>. I received my Ph.D. in Computer Science from the <a href="https://www.cs.ucf.edu/">University of Central Florida</a> in 2023 and my B.E. from BUPT in 2020. I have also had the privilege of interning at <a href="https://www.microsoft.com/en-us/research/group/machine-learning-research-group/research/">Microsoft Research</a>, <a href="https://research.baidu.com/">Baidu Research</a>, and <a href="https://www.bytedance.com/en/">Bytedance AI Lab</a>.
-</p>
+<!-- <p>
+  My general research interests include data-centric AI, data mining, time series modeling, spatial-temporal data mining, and Agentic AI. I am dedicated to applying these methods to solve real-world problems in domains like healthcare, transportation, and energy.
+</p> -->
 
 <p>
   I have published over 40 papers in top-tier data mining, machine learning, and interdisciplinary venues, including TKDE, TKDD, Nature Communications, ICLR, NeurIPS, KDD, WWW, AAAI, and IJCAI. Two of my papers have received ICLR spotlight recognition. In addition to my research, I have co-organized workshops at conferences like <a href="https://data-centric-ai-dev.github.io/ICDM2024/">ICDM</a>, <a href="https://data-centric-ai-dev.github.io/CIKM2024/">CIKM</a>, <a href="https://geogenagent.github.io/SIGSPATIAL2025-Workshop/">SIGSpatial</a>, and <a href="https://ai-for-data-editing.github.io/KDD25-workshop/">KDD</a>. I also regularly serve as a program committee member or reviewer for numerous leading conferences and journals (listed below).
