@@ -42,11 +42,13 @@ I have published over 40 papers in top-tier data mining, machine learning, and i
 
 <h2>News</h2>
 <ul>
-    <li><strong>June 2025:</strong> One paper was accepted to <em>IEEE Transactions on Computational Social Systems</em>.</li>
-    <li><strong>May 2025:</strong> Our survey and tutorial on deep frequency learning for time series were accepted to KDD 2025. <a href="https://hh4ts.github.io/Deep_Learning_in_Frequency_Domain_Tutorial/">Deep Learning in Frequency Domain</a>.</li>
+    <li>August 2025:</li> Call for paper (<a href="https://geogenagent.github.io/SIGSPATIAL2025-Workshop/">GeoGenAgent'25</a>): The 1st International Workshop on Generative and Agentic AI for Multi-Modality Space-Time Intelligence SIGSPATIAL 2025's Workshop.
+    <li><strong>August 2025:</strong> One paper on multimodal medical time series modeling was accepted by <em>Information Fusion<em>.</li>
+    <li><strong>June 2025:</strong> One paper was accepted to <em>IEEE Transactions on Computational Social Systems (TCSS)</em> and one paper was accepted by <em>IEEE Transactions on Knowledge and Data Engineering (TKDE)</em>.</li>
+    <li><strong>May 2025:</strong> Our survey and tutorial on deep frequency learning for time series were accepted to KDD 2025， <a href="https://hh4ts.github.io/Deep_Learning_in_Frequency_Domain_Tutorial/">Deep Learning in Frequency Domain</a>.</li>
     <li><strong>April 2025:</strong> Two papers on spatiotemporal modeling were accepted to IJCAI 2025.</li>
     <li><strong>January 2025:</strong> One paper on tabular representation learning was accepted to ICLR 2025.</li>
-    <li><strong>January 2025:</strong> One paper on medical time series classification was accepted to The Web Conference (WWW) 2025.</li>
+    <li><strong>January 2025:</strong> One paper on medical time series classification was accepted to The Web Conference (WWW) 2025 and one paper was accepted by <em>Bioinformatics</em>.</li>
     <li><strong>January 2025:</strong> One paper on protein function modeling was published in <em>Nature Communications</em>.</li>
     <li><strong>December 2024:</strong> Three papers were accepted to AAAI 2025.</li>
     <li><strong>November 2024:</strong> One paper on non-stationary time series forecasting was accepted to KDD 2025.</li>
