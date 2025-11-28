@@ -42,6 +42,8 @@ I have published over 40 papers in top-tier data mining, machine learning, and i
 
 <h2>News</h2>
 <ul>
+    <li><strong>November 2025:</strong> One paper of tabular representation learning was accepted by <em>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</em></li>
+    <li><strong>October 2025:</strong> One paper of Protein Function Prediction was accepted by <em>IEEE Journal of Biomedical and Health Informatics (JBHI)</em></li>
     <li><strong>August 2025:</strong> Call for paper (<a href="https://geogenagent.github.io/SIGSPATIAL2025-Workshop/">GeoGenAgent'25</a>): The 1st International Workshop on Generative and Agentic AI for Multi-Modality Space-Time Intelligence SIGSPATIAL 2025's Workshop.</li>
     <li><strong>August 2025:</strong> One paper on multimodal medical time series modeling was accepted by <em>Information Fusion</em>.</li>
     <li><strong>July 2025:</strong> One paper was accepted to <em>IEEE Transactions on Knowledge and Data Engineering</em>.</li>
