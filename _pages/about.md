@@ -103,7 +103,7 @@ I have published over 40 papers in top-tier data mining, machine learning, and i
 <h2>Professional Services</h2>
 <p><strong>Area Chair / Senior Program Committee</strong></p>
 <ul>
-    <li>IEEE DSAA 2025, ICLR 2026, PAKDD 2026</li>
+    <li>IEEE DSAA 2025, ICLR 2026, PAKDD 2026, KDD 2026</li>
 </ul>
 
 <p><strong>Program Committee Member / Reviewer</strong></p>
