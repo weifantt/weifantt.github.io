@@ -42,7 +42,7 @@ I have published over 40 papers in top-tier data mining, machine learning, and i
 
 <h2>News</h2>
 <ul>
-    <li><strong>Feburary 2026:</strong> One paper of neurodegenerative disease phenotyping was accepted by <em>Nature Aging</em></li>
+    <li><strong>Feburary 2026:</strong> One paper of neurodegenerative disease phenotyping and analysis was accepted by <em>Nature Aging</em></li>
     <li><strong>Janurary 2026:</strong> One paper of graph anomaly detection was accepted by The Web Conference (WWW) 2026</li>
     <li><strong>November 2025:</strong> One paper of tabular representation learning was accepted by <em>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</em></li>
     <li><strong>November 2025:</strong> One paper of multimodal traffic learning was accepted by AAAI 2026. See you in Singapore!</li>
