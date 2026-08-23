@@ -42,9 +42,9 @@ I have published over 40 papers in top-tier data mining, machine learning, and i
 
 <h2>News</h2>
 <ul>
+    <li><strong>August 2026:</strong> Two papers on efficient time series reasoning were accepted by EMNLP 2026.</li>
     <li><strong>August 2026:</strong> One paper on time series forecasting (S2MEN) was accepted by IEEE ICDM 2026.</li>
     <li><strong>August 2026:</strong> One paper on feature transformation learning was accepted by CIKM 2026.</li>
-    <li><strong>August 2026:</strong> Two papers on efficient time series reasoning were accepted by EMNLP 2026.</li>
     <li><strong>July 2026:</strong> One paper on coarse-grained molecular modeling was accepted by <em>Bioinformatics</em>.</li>
     <li><strong>June 2026:</strong> One paper on modelling ageing trajectories from electronic health records (ClinicalAge) was accepted by <em>The Lancet Digital Health</em>.</li>
     <li><strong>May 2026:</strong> One paper on time series foundation models (Olivia) was accepted by ICML 2026.</li>
