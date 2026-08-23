@@ -42,6 +42,11 @@ I have published over 40 papers in top-tier data mining, machine learning, and i
 
 <h2>News</h2>
 <ul>
+    <li><strong>August 2026:</strong> Two papers on efficient time series reasoning were accepted by EMNLP 2026.</li>
+    <li><strong>July 2026:</strong> One paper on coarse-grained molecular modeling was accepted by <em>Bioinformatics</em>.</li>
+    <li><strong>June 2026:</strong> One paper on modelling ageing trajectories from electronic health records (ClinicalAge) was accepted by <em>The Lancet Digital Health</em>.</li>
+    <li><strong>May 2026:</strong> One paper on time series foundation models (Olivia) was accepted by ICML 2026.</li>
+    <li><strong>April 2026:</strong> One paper on LLM agents for autonomous climate science analysis (ClimAgent) was accepted as a Findings paper at ACL 2026.</li>
     <li><strong>Feburary 2026:</strong> One paper of neurodegenerative disease phenotyping and analysis was accepted by <em>Nature Aging</em></li>
     <li><strong>Janurary 2026:</strong> One paper of graph anomaly detection was accepted by The Web Conference (WWW) 2026</li>
     <li><strong>November 2025:</strong> One paper of tabular representation learning was accepted by <em>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</em></li>
