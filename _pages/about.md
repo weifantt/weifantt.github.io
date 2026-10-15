@@ -42,6 +42,7 @@ I have published over 40 papers in top-tier data mining, machine learning, and i
 
 <h2>News</h2>
 <ul>
+    <li><strong>September 2026:</strong> Two papers were accepted by NeurIPS 2026, including one spotlight on time series forecasting (Paloma) and one poster on multimodal recommendation (FreDRec).</li>
     <li><strong>August 2026:</strong> Two papers on efficient time series reasoning were accepted by EMNLP 2026.</li>
     <li><strong>August 2026:</strong> One paper on time series forecasting (S2MEN) was accepted by IEEE ICDM 2026.</li>
     <li><strong>August 2026:</strong> One paper on feature transformation learning was accepted by CIKM 2026.</li>
